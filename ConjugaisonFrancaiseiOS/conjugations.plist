@@ -1624,607 +1624,607 @@
 			<key>id</key>
 			<integer>11</integer>
 			<key>term</key>
-			<string></string>
+			<string>er</string>
 			<key>radicals</key>
-			<string></string>
+			<string>cèd, céd</string>
 			<key>inf_pr</key>
-			<string></string>
+			<string>céder</string>
 			<key>inf_pa</key>
-			<string></string>
+			<string>avoir cédé</string>
 			<key>pa_pr</key>
-			<string></string>
+			<string>cédant</string>
 			<key>pa_pa1</key>
-			<string></string>
+			<string>cédé (é, ée, és, ées)</string>
 			<key>pa_pa2</key>
-			<string></string>
+			<string>ayant cédé</string>
 			<key>ge_pr</key>
-			<string></string>
+			<string>en cédant</string>
 			<key>ge_pa</key>
-			<string></string>
+			<string>en ayant cédé</string>
 			<key>im_pr_t</key>
-			<string></string>
+			<string>cède</string>
 			<key>im_pr_n</key>
-			<string></string>
+			<string>cédons</string>
 			<key>im_pr_v</key>
-			<string></string>
+			<string>cédez</string>
 			<key>im_pa_t</key>
-			<string></string>
+			<string>aie cédé</string>
 			<key>im_pa_n</key>
-			<string></string>
+			<string>ayons cédé</string>
 			<key>im_pa_v</key>
-			<string></string>
+			<string>ayez cédé</string>
 			<key>in_pr_j</key>
-			<string></string>
+			<string>cède</string>
 			<key>in_pr_t</key>
-			<string></string>
+			<string>cèdes</string>
 			<key>in_pr_il</key>
-			<string></string>
+			<string>cède</string>
 			<key>in_pr_n</key>
-			<string></string>
+			<string>cédons</string>
 			<key>in_pr_v</key>
-			<string></string>
+			<string>cédez</string>
 			<key>in_pr_ils</key>
-			<string></string>
+			<string>cèdent</string>
 			<key>in_pc_j</key>
-			<string></string>
+			<string>ai cédé</string>
 			<key>in_pc_t</key>
-			<string></string>
+			<string>as cédé</string>
 			<key>in_pc_il</key>
-			<string></string>
+			<string>a cédé</string>
 			<key>in_pc_n</key>
-			<string></string>
+			<string>avons cédé</string>
 			<key>in_pc_v</key>
-			<string></string>
+			<string>avez cédé</string>
 			<key>in_pc_ils</key>
-			<string></string>
+			<string>ont cédé</string>
 			<key>in_im_j</key>
-			<string></string>
+			<string>cédais</string>
 			<key>in_im_t</key>
-			<string></string>
+			<string>cédais</string>
 			<key>in_im_il</key>
-			<string></string>
+			<string>cédait</string>
 			<key>in_im_n</key>
-			<string></string>
+			<string>cédions</string>
 			<key>in_im_v</key>
-			<string></string>
+			<string>cédiez</string>
 			<key>in_im_ils</key>
-			<string></string>
+			<string>cédaient</string>
 			<key>in_pqp_j</key>
-			<string></string>
+			<string>avais cédé</string>
 			<key>in_pqp_t</key>
-			<string></string>
+			<string>avais cédé</string>
 			<key>in_pqp_il</key>
-			<string></string>
+			<string>avait cédé</string>
 			<key>in_pqp_n</key>
-			<string></string>
+			<string>avions cédé</string>
 			<key>in_pqp_v</key>
-			<string></string>
+			<string>aviez cédé</string>
 			<key>in_pqp_ils</key>
-			<string></string>
+			<string>avaient cédé</string>
 			<key>in_ps_j</key>
-			<string></string>
+			<string>cédai</string>
 			<key>in_ps_t</key>
-			<string></string>
+			<string>cédas</string>
 			<key>in_ps_il</key>
-			<string></string>
+			<string>céda</string>
 			<key>in_ps_n</key>
-			<string></string>
+			<string>cédâmes</string>
 			<key>in_ps_v</key>
-			<string></string>
+			<string>cédâtes</string>
 			<key>in_ps_ils</key>
-			<string></string>
+			<string>cédèrent</string>
 			<key>in_pa_j</key>
-			<string></string>
+			<string>eus cédé</string>
 			<key>in_pa_t</key>
-			<string></string>
+			<string>eus cédé</string>
 			<key>in_pa_il</key>
-			<string></string>
+			<string>eut cédé</string>
 			<key>in_pa_n</key>
-			<string></string>
+			<string>eûmes cédé</string>
 			<key>in_pa_v</key>
-			<string></string>
+			<string>eûtes cédé</string>
 			<key>in_pa_ils</key>
-			<string></string>
+			<string>eurent cédé</string>
 			<key>in_fs_j</key>
-			<string></string>
+			<string>céderai</string>
 			<key>in_fs_t</key>
-			<string></string>
+			<string>céderas</string>
 			<key>in_fs_il</key>
-			<string></string>
+			<string>cédera</string>
 			<key>in_fs_n</key>
-			<string></string>
+			<string>céderons</string>
 			<key>in_fs_v</key>
-			<string></string>
+			<string>céderez</string>
 			<key>in_fs_ils</key>
-			<string></string>
+			<string>céderont</string>
 			<key>in_fa_j</key>
-			<string></string>
+			<string>aurai cédé</string>
 			<key>in_fa_t</key>
-			<string></string>
+			<string>auras cédé</string>
 			<key>in_fa_il</key>
-			<string></string>
+			<string>aura cédé</string>
 			<key>in_fa_n</key>
-			<string></string>
+			<string>aurons cédé</string>
 			<key>in_fa_v</key>
-			<string></string>
+			<string>aurez cédé</string>
 			<key>in_fa_ils</key>
-			<string></string>
+			<string>auront cédé</string>
 			<key>su_pr_j</key>
-			<string></string>
+			<string>cède</string>
 			<key>su_pr_t</key>
-			<string></string>
+			<string>cèdes</string>
 			<key>su_pr_il</key>
-			<string></string>
+			<string>cède</string>
 			<key>su_pr_n</key>
-			<string></string>
+			<string>cédions</string>
 			<key>su_pr_v</key>
-			<string></string>
+			<string>cédiez</string>
 			<key>su_pr_ils</key>
-			<string></string>
+			<string>cèdent</string>
 			<key>su_pa_j</key>
-			<string></string>
+			<string>aie cédé</string>
 			<key>su_pa_t</key>
-			<string></string>
+			<string>aies cédé</string>
 			<key>su_pa_il</key>
-			<string></string>
+			<string>ait cédé</string>
 			<key>su_pa_n</key>
-			<string></string>
+			<string>ayons cédé</string>
 			<key>su_pa_v</key>
-			<string></string>
+			<string>ayez cédé</string>
 			<key>su_pa_ils</key>
-			<string></string>
+			<string>aient cédé</string>
 			<key>su_im_j</key>
-			<string></string>
+			<string>cédasse</string>
 			<key>su_im_t</key>
-			<string></string>
+			<string>cédasses</string>
 			<key>su_im_il</key>
-			<string></string>
+			<string>cédât</string>
 			<key>su_im_n</key>
-			<string></string>
+			<string>cédassions</string>
 			<key>su_im_v</key>
-			<string></string>
+			<string>cédassiez</string>
 			<key>su_im_ils</key>
-			<string></string>
+			<string>cédassent</string>
 			<key>su_pqp_j</key>
-			<string></string>
+			<string>eusse cédé</string>
 			<key>su_pqp_t</key>
-			<string></string>
+			<string>eusses cédé</string>
 			<key>su_pqp_il</key>
-			<string></string>
+			<string>eût cédé</string>
 			<key>su_pqp_n</key>
-			<string></string>
+			<string>eussions cédé</string>
 			<key>su_pqp_v</key>
-			<string></string>
+			<string>eussiez cédé</string>
 			<key>su_pqp_ils</key>
-			<string></string>
+			<string>eussent cédé</string>
 			<key>co_pr_j</key>
-			<string></string>
+			<string>céderais</string>
 			<key>co_pr_t</key>
-			<string></string>
+			<string>céderais</string>
 			<key>co_pr_il</key>
-			<string></string>
+			<string>céderait</string>
 			<key>co_pr_n</key>
-			<string></string>
+			<string>céderions</string>
 			<key>co_pr_v</key>
-			<string></string>
+			<string>céderiez</string>
 			<key>co_pr_ils</key>
-			<string></string>
+			<string>céderaient</string>
 			<key>co_pa_j</key>
-			<string></string>
+			<string>aurais cédé</string>
 			<key>co_pa_t</key>
-			<string></string>
+			<string>aurais cédé</string>
 			<key>co_pa_il</key>
-			<string></string>
+			<string>aurait cédé</string>
 			<key>co_pa_n</key>
-			<string></string>
+			<string>aurions cédé</string>
 			<key>co_pa_v</key>
-			<string></string>
+			<string>auriez cédé</string>
 			<key>co_pa_ils</key>
-			<string></string>
+			<string>auraient cédé</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>12</integer>
 			<key>term</key>
-			<string></string>
+			<string>eler, eter</string>
 			<key>radicals</key>
-			<string></string>
+			<string>jett, jet</string>
 			<key>inf_pr</key>
-			<string></string>
+			<string>jeter</string>
 			<key>inf_pa</key>
-			<string></string>
+			<string>avoir jeté</string>
 			<key>pa_pr</key>
-			<string></string>
+			<string>jetant</string>
 			<key>pa_pa1</key>
-			<string></string>
+			<string>jeté (é, ée, és, ées)</string>
 			<key>pa_pa2</key>
-			<string></string>
+			<string>ayant jeté</string>
 			<key>ge_pr</key>
-			<string></string>
+			<string>en jetant</string>
 			<key>ge_pa</key>
-			<string></string>
+			<string>en ayant jeté</string>
 			<key>im_pr_t</key>
-			<string></string>
+			<string>jette</string>
 			<key>im_pr_n</key>
-			<string></string>
+			<string>jetons</string>
 			<key>im_pr_v</key>
-			<string></string>
+			<string>jetez</string>
 			<key>im_pa_t</key>
-			<string></string>
+			<string>aie jeté</string>
 			<key>im_pa_n</key>
-			<string></string>
+			<string>ayons jeté</string>
 			<key>im_pa_v</key>
-			<string></string>
+			<string>ayez jeté</string>
 			<key>in_pr_j</key>
-			<string></string>
+			<string>jette</string>
 			<key>in_pr_t</key>
-			<string></string>
+			<string>jettes</string>
 			<key>in_pr_il</key>
-			<string></string>
+			<string>jette</string>
 			<key>in_pr_n</key>
-			<string></string>
+			<string>jetons</string>
 			<key>in_pr_v</key>
-			<string></string>
+			<string>jetez</string>
 			<key>in_pr_ils</key>
-			<string></string>
+			<string>jettent</string>
 			<key>in_pc_j</key>
-			<string></string>
+			<string>ai jeté</string>
 			<key>in_pc_t</key>
-			<string></string>
+			<string>as jeté</string>
 			<key>in_pc_il</key>
-			<string></string>
+			<string>a jeté</string>
 			<key>in_pc_n</key>
-			<string></string>
+			<string>avons jeté</string>
 			<key>in_pc_v</key>
-			<string></string>
+			<string>avez jeté</string>
 			<key>in_pc_ils</key>
-			<string></string>
+			<string>ont jeté</string>
 			<key>in_im_j</key>
-			<string></string>
+			<string>jetais</string>
 			<key>in_im_t</key>
-			<string></string>
+			<string>jetais</string>
 			<key>in_im_il</key>
-			<string></string>
+			<string>jetait</string>
 			<key>in_im_n</key>
-			<string></string>
+			<string>jetions</string>
 			<key>in_im_v</key>
-			<string></string>
+			<string>jetiez</string>
 			<key>in_im_ils</key>
-			<string></string>
+			<string>jetaient</string>
 			<key>in_pqp_j</key>
-			<string></string>
+			<string>avais jeté</string>
 			<key>in_pqp_t</key>
-			<string></string>
+			<string>avais jeté</string>
 			<key>in_pqp_il</key>
-			<string></string>
+			<string>avait jeté</string>
 			<key>in_pqp_n</key>
-			<string></string>
+			<string>avions jeté</string>
 			<key>in_pqp_v</key>
-			<string></string>
+			<string>aviez jeté</string>
 			<key>in_pqp_ils</key>
-			<string></string>
+			<string>avaient jeté</string>
 			<key>in_ps_j</key>
-			<string></string>
+			<string>jetai</string>
 			<key>in_ps_t</key>
-			<string></string>
+			<string>jetas</string>
 			<key>in_ps_il</key>
-			<string></string>
+			<string>jeta</string>
 			<key>in_ps_n</key>
-			<string></string>
+			<string>jetâmes</string>
 			<key>in_ps_v</key>
-			<string></string>
+			<string>jetâtes</string>
 			<key>in_ps_ils</key>
-			<string></string>
+			<string>jetèrent</string>
 			<key>in_pa_j</key>
-			<string></string>
+			<string>eus jeté</string>
 			<key>in_pa_t</key>
-			<string></string>
+			<string>eus jeté</string>
 			<key>in_pa_il</key>
-			<string></string>
+			<string>eut jeté</string>
 			<key>in_pa_n</key>
-			<string></string>
+			<string>eûmes jeté</string>
 			<key>in_pa_v</key>
-			<string></string>
+			<string>eûtes jeté</string>
 			<key>in_pa_ils</key>
-			<string></string>
+			<string>eurent jeté</string>
 			<key>in_fs_j</key>
-			<string></string>
+			<string>jetterai</string>
 			<key>in_fs_t</key>
-			<string></string>
+			<string>jetteras</string>
 			<key>in_fs_il</key>
-			<string></string>
+			<string>jettera</string>
 			<key>in_fs_n</key>
-			<string></string>
+			<string>jetterons</string>
 			<key>in_fs_v</key>
-			<string></string>
+			<string>jetterez</string>
 			<key>in_fs_ils</key>
-			<string></string>
+			<string>jetteront</string>
 			<key>in_fa_j</key>
-			<string></string>
+			<string>aurai jeté</string>
 			<key>in_fa_t</key>
-			<string></string>
+			<string>auras jeté</string>
 			<key>in_fa_il</key>
-			<string></string>
+			<string>aura jeté</string>
 			<key>in_fa_n</key>
-			<string></string>
+			<string>aurons jeté</string>
 			<key>in_fa_v</key>
-			<string></string>
+			<string>aurez jeté</string>
 			<key>in_fa_ils</key>
-			<string></string>
+			<string>auront jeté</string>
 			<key>su_pr_j</key>
-			<string></string>
+			<string>jette</string>
 			<key>su_pr_t</key>
-			<string></string>
+			<string>jettes</string>
 			<key>su_pr_il</key>
-			<string></string>
+			<string>jette</string>
 			<key>su_pr_n</key>
-			<string></string>
+			<string>jetions</string>
 			<key>su_pr_v</key>
-			<string></string>
+			<string>jetiez</string>
 			<key>su_pr_ils</key>
-			<string></string>
+			<string>jettent</string>
 			<key>su_pa_j</key>
-			<string></string>
+			<string>aie jeté</string>
 			<key>su_pa_t</key>
-			<string></string>
+			<string>aies jeté</string>
 			<key>su_pa_il</key>
-			<string></string>
+			<string>ait jeté</string>
 			<key>su_pa_n</key>
-			<string></string>
+			<string>ayons jeté</string>
 			<key>su_pa_v</key>
-			<string></string>
+			<string>ayez jeté</string>
 			<key>su_pa_ils</key>
-			<string></string>
+			<string>aient jeté</string>
 			<key>su_im_j</key>
-			<string></string>
+			<string>jetasse</string>
 			<key>su_im_t</key>
-			<string></string>
+			<string>jetasses</string>
 			<key>su_im_il</key>
-			<string></string>
+			<string>jetât</string>
 			<key>su_im_n</key>
-			<string></string>
+			<string>jetassions</string>
 			<key>su_im_v</key>
-			<string></string>
+			<string>jetassiez</string>
 			<key>su_im_ils</key>
-			<string></string>
+			<string>jetassent</string>
 			<key>su_pqp_j</key>
-			<string></string>
+			<string>eusse jeté</string>
 			<key>su_pqp_t</key>
-			<string></string>
+			<string>eusses jeté</string>
 			<key>su_pqp_il</key>
-			<string></string>
+			<string>eût jeté</string>
 			<key>su_pqp_n</key>
-			<string></string>
+			<string>eussions jeté</string>
 			<key>su_pqp_v</key>
-			<string></string>
+			<string>eussiez jeté</string>
 			<key>su_pqp_ils</key>
-			<string></string>
+			<string>eussent jeté</string>
 			<key>co_pr_j</key>
-			<string></string>
+			<string>jetterais</string>
 			<key>co_pr_t</key>
-			<string></string>
+			<string>jetterais</string>
 			<key>co_pr_il</key>
-			<string></string>
+			<string>jetterait</string>
 			<key>co_pr_n</key>
-			<string></string>
+			<string>jetterions</string>
 			<key>co_pr_v</key>
-			<string></string>
+			<string>jetteriez</string>
 			<key>co_pr_ils</key>
-			<string></string>
+			<string>jetteraient</string>
 			<key>co_pa_j</key>
-			<string></string>
+			<string>aurais jeté</string>
 			<key>co_pa_t</key>
-			<string></string>
+			<string>aurais jeté</string>
 			<key>co_pa_il</key>
-			<string></string>
+			<string>aurait jeté</string>
 			<key>co_pa_n</key>
-			<string></string>
+			<string>aurions jeté</string>
 			<key>co_pa_v</key>
-			<string></string>
+			<string>auriez jeté</string>
 			<key>co_pa_ils</key>
-			<string></string>
+			<string>auraient jeté</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>13</integer>
 			<key>term</key>
-			<string></string>
+			<string>eler, eter</string>
 			<key>radicals</key>
-			<string></string>
+			<string>modèl, model</string>
 			<key>inf_pr</key>
-			<string></string>
+			<string>modeler</string>
 			<key>inf_pa</key>
-			<string></string>
+			<string>avoir modelé</string>
 			<key>pa_pr</key>
-			<string></string>
+			<string>modelant</string>
 			<key>pa_pa1</key>
-			<string></string>
+			<string>modelé (é, ée, és, ées)</string>
 			<key>pa_pa2</key>
-			<string></string>
+			<string>ayant modelé</string>
 			<key>ge_pr</key>
-			<string></string>
+			<string>en modelant</string>
 			<key>ge_pa</key>
-			<string></string>
+			<string>en ayant modelé</string>
 			<key>im_pr_t</key>
-			<string></string>
+			<string>modèle</string>
 			<key>im_pr_n</key>
-			<string></string>
+			<string>modelons</string>
 			<key>im_pr_v</key>
-			<string></string>
+			<string>modelez</string>
 			<key>im_pa_t</key>
-			<string></string>
+			<string>aie modelé</string>
 			<key>im_pa_n</key>
-			<string></string>
+			<string>ayons modelé</string>
 			<key>im_pa_v</key>
-			<string></string>
+			<string>ayez modelé</string>
 			<key>in_pr_j</key>
-			<string></string>
+			<string>modèle</string>
 			<key>in_pr_t</key>
-			<string></string>
+			<string>modèles</string>
 			<key>in_pr_il</key>
-			<string></string>
+			<string>modèle</string>
 			<key>in_pr_n</key>
-			<string></string>
+			<string>modelons</string>
 			<key>in_pr_v</key>
-			<string></string>
+			<string>modelez</string>
 			<key>in_pr_ils</key>
-			<string></string>
+			<string>modèlent</string>
 			<key>in_pc_j</key>
-			<string></string>
+			<string>ai modelé</string>
 			<key>in_pc_t</key>
-			<string></string>
+			<string>as modelé</string>
 			<key>in_pc_il</key>
-			<string></string>
+			<string>a modelé</string>
 			<key>in_pc_n</key>
-			<string></string>
+			<string>avons modelé</string>
 			<key>in_pc_v</key>
-			<string></string>
+			<string>avez modelé</string>
 			<key>in_pc_ils</key>
-			<string></string>
+			<string>ont modelé</string>
 			<key>in_im_j</key>
-			<string></string>
+			<string>modelais</string>
 			<key>in_im_t</key>
-			<string></string>
+			<string>modelais</string>
 			<key>in_im_il</key>
-			<string></string>
+			<string>modelait</string>
 			<key>in_im_n</key>
-			<string></string>
+			<string>modelions</string>
 			<key>in_im_v</key>
-			<string></string>
+			<string>modeliez</string>
 			<key>in_im_ils</key>
-			<string></string>
+			<string>modelaient</string>
 			<key>in_pqp_j</key>
-			<string></string>
+			<string>avais modelé</string>
 			<key>in_pqp_t</key>
-			<string></string>
+			<string>avais modelé</string>
 			<key>in_pqp_il</key>
-			<string></string>
+			<string>avait modelé</string>
 			<key>in_pqp_n</key>
-			<string></string>
+			<string>avions modelé</string>
 			<key>in_pqp_v</key>
-			<string></string>
+			<string>aviez modelé</string>
 			<key>in_pqp_ils</key>
-			<string></string>
+			<string>avaient modelé</string>
 			<key>in_ps_j</key>
-			<string></string>
+			<string>modelai</string>
 			<key>in_ps_t</key>
-			<string></string>
+			<string>modelas</string>
 			<key>in_ps_il</key>
-			<string></string>
+			<string>modela</string>
 			<key>in_ps_n</key>
-			<string></string>
+			<string>modelâmes</string>
 			<key>in_ps_v</key>
-			<string></string>
+			<string>modelâtes</string>
 			<key>in_ps_ils</key>
-			<string></string>
+			<string>modelèrent</string>
 			<key>in_pa_j</key>
-			<string></string>
+			<string>eus modelé</string>
 			<key>in_pa_t</key>
-			<string></string>
+			<string>eus modelé</string>
 			<key>in_pa_il</key>
-			<string></string>
+			<string>eut modelé</string>
 			<key>in_pa_n</key>
-			<string></string>
+			<string>eûmes modelé</string>
 			<key>in_pa_v</key>
-			<string></string>
+			<string>eûtes modelé</string>
 			<key>in_pa_ils</key>
-			<string></string>
+			<string>eurent modelé</string>
 			<key>in_fs_j</key>
-			<string></string>
+			<string>modèlerai</string>
 			<key>in_fs_t</key>
-			<string></string>
+			<string>modèleras</string>
 			<key>in_fs_il</key>
-			<string></string>
+			<string>modèlera</string>
 			<key>in_fs_n</key>
-			<string></string>
+			<string>modèlerons</string>
 			<key>in_fs_v</key>
-			<string></string>
+			<string>modèlerez</string>
 			<key>in_fs_ils</key>
-			<string></string>
+			<string>modèleront</string>
 			<key>in_fa_j</key>
-			<string></string>
+			<string>aurai modelé</string>
 			<key>in_fa_t</key>
-			<string></string>
+			<string>auras modelé</string>
 			<key>in_fa_il</key>
-			<string></string>
+			<string>aura modelé</string>
 			<key>in_fa_n</key>
-			<string></string>
+			<string>aurons modelé</string>
 			<key>in_fa_v</key>
-			<string></string>
+			<string>aurez modelé</string>
 			<key>in_fa_ils</key>
-			<string></string>
+			<string>auront modelé</string>
 			<key>su_pr_j</key>
-			<string></string>
+			<string>modèle</string>
 			<key>su_pr_t</key>
-			<string></string>
+			<string>modèles</string>
 			<key>su_pr_il</key>
-			<string></string>
+			<string>modèle</string>
 			<key>su_pr_n</key>
-			<string></string>
+			<string>modelions</string>
 			<key>su_pr_v</key>
-			<string></string>
+			<string>modeliez</string>
 			<key>su_pr_ils</key>
-			<string></string>
+			<string>modèlent</string>
 			<key>su_pa_j</key>
-			<string></string>
+			<string>aie modelé</string>
 			<key>su_pa_t</key>
-			<string></string>
+			<string>aies modelé</string>
 			<key>su_pa_il</key>
-			<string></string>
+			<string>ait modelé</string>
 			<key>su_pa_n</key>
-			<string></string>
+			<string>ayons modelé</string>
 			<key>su_pa_v</key>
-			<string></string>
+			<string>ayez modelé</string>
 			<key>su_pa_ils</key>
-			<string></string>
+			<string>aient modelé</string>
 			<key>su_im_j</key>
-			<string></string>
+			<string>modelasse</string>
 			<key>su_im_t</key>
-			<string></string>
+			<string>modelasses</string>
 			<key>su_im_il</key>
-			<string></string>
+			<string>modelât</string>
 			<key>su_im_n</key>
-			<string></string>
+			<string>modelassions</string>
 			<key>su_im_v</key>
-			<string></string>
+			<string>modelassiez</string>
 			<key>su_im_ils</key>
-			<string></string>
+			<string>modelassent</string>
 			<key>su_pqp_j</key>
-			<string></string>
+			<string>eusse modelé</string>
 			<key>su_pqp_t</key>
-			<string></string>
+			<string>eusses modelé</string>
 			<key>su_pqp_il</key>
-			<string></string>
+			<string>eût modelé</string>
 			<key>su_pqp_n</key>
-			<string></string>
+			<string>eussions modelé</string>
 			<key>su_pqp_v</key>
-			<string></string>
+			<string>eussiez modelé</string>
 			<key>su_pqp_ils</key>
-			<string></string>
+			<string>eussent modelé</string>
 			<key>co_pr_j</key>
-			<string></string>
+			<string>modèlerais</string>
 			<key>co_pr_t</key>
-			<string></string>
+			<string>modèlerais</string>
 			<key>co_pr_il</key>
-			<string></string>
+			<string>modèlerait</string>
 			<key>co_pr_n</key>
-			<string></string>
+			<string>modèlerions</string>
 			<key>co_pr_v</key>
-			<string></string>
+			<string>modèleriez</string>
 			<key>co_pr_ils</key>
-			<string></string>
+			<string>modèleraient</string>
 			<key>co_pa_j</key>
-			<string></string>
+			<string>aurais modelé</string>
 			<key>co_pa_t</key>
-			<string></string>
+			<string>aurais modelé</string>
 			<key>co_pa_il</key>
-			<string></string>
+			<string>aurait modelé</string>
 			<key>co_pa_n</key>
-			<string></string>
+			<string>aurions modelé</string>
 			<key>co_pa_v</key>
-			<string></string>
+			<string>auriez modelé</string>
 			<key>co_pa_ils</key>
-			<string></string>
+			<string>auraient modelé</string>
 		</dict>
 		<dict>
 			<key>id</key>
