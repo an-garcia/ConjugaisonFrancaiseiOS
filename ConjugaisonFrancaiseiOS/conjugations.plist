@@ -830,795 +830,795 @@
 			<key>pa_pa2</key>
 			<string>ayant aimé</string>
 			<key>ge_pr</key>
-			<string></string>
+			<string>en aimant</string>
 			<key>ge_pa</key>
-			<string></string>
+			<string>en avant aimé</string>
 			<key>im_pr_t</key>
-			<string></string>
+			<string>aime</string>
 			<key>im_pr_n</key>
-			<string></string>
+			<string>aimons</string>
 			<key>im_pr_v</key>
-			<string></string>
+			<string>aimez</string>
 			<key>im_pa_t</key>
-			<string></string>
+			<string>aie aimé</string>
 			<key>im_pa_n</key>
-			<string></string>
+			<string>ayons aimé</string>
 			<key>im_pa_v</key>
-			<string></string>
+			<string>ayez aimé</string>
 			<key>in_pr_j</key>
-			<string></string>
+			<string>aime</string>
 			<key>in_pr_t</key>
-			<string></string>
+			<string>aimes</string>
 			<key>in_pr_il</key>
-			<string></string>
+			<string>aime</string>
 			<key>in_pr_n</key>
-			<string></string>
+			<string>aimons</string>
 			<key>in_pr_v</key>
-			<string></string>
+			<string>aimez</string>
 			<key>in_pr_ils</key>
-			<string></string>
+			<string>aiment</string>
 			<key>in_pc_j</key>
-			<string></string>
+			<string>ai aimé</string>
 			<key>in_pc_t</key>
-			<string></string>
+			<string>as aimé</string>
 			<key>in_pc_il</key>
-			<string></string>
+			<string>a aimé</string>
 			<key>in_pc_n</key>
-			<string></string>
+			<string>avons aimé</string>
 			<key>in_pc_v</key>
-			<string></string>
+			<string>avez aimé</string>
 			<key>in_pc_ils</key>
-			<string></string>
+			<string>ont aimé</string>
 			<key>in_im_j</key>
-			<string></string>
+			<string>aimais</string>
 			<key>in_im_t</key>
-			<string></string>
+			<string>aimais</string>
 			<key>in_im_il</key>
-			<string></string>
+			<string>aimait</string>
 			<key>in_im_n</key>
-			<string></string>
+			<string>aimions</string>
 			<key>in_im_v</key>
-			<string></string>
+			<string>aimiez</string>
 			<key>in_im_ils</key>
-			<string></string>
+			<string>aimaient</string>
 			<key>in_pqp_j</key>
-			<string></string>
+			<string>avais aimé</string>
 			<key>in_pqp_t</key>
-			<string></string>
+			<string>avais aimé</string>
 			<key>in_pqp_il</key>
-			<string></string>
+			<string>avait aimé</string>
 			<key>in_pqp_n</key>
-			<string></string>
+			<string>avions aimé</string>
 			<key>in_pqp_v</key>
-			<string></string>
+			<string>aviez aimé</string>
 			<key>in_pqp_ils</key>
-			<string></string>
+			<string>avaient aimé</string>
 			<key>in_ps_j</key>
-			<string></string>
+			<string>aimai</string>
 			<key>in_ps_t</key>
-			<string></string>
+			<string>aimas</string>
 			<key>in_ps_il</key>
-			<string></string>
+			<string>aima</string>
 			<key>in_ps_n</key>
-			<string></string>
+			<string>aimâmes</string>
 			<key>in_ps_v</key>
-			<string></string>
+			<string>aimâtes</string>
 			<key>in_ps_ils</key>
-			<string></string>
+			<string>aimèrent</string>
 			<key>in_pa_j</key>
-			<string></string>
+			<string>eus aimé</string>
 			<key>in_pa_t</key>
-			<string></string>
+			<string>eus aimé</string>
 			<key>in_pa_il</key>
-			<string></string>
+			<string>eut aimé</string>
 			<key>in_pa_n</key>
-			<string></string>
+			<string>eûmes aimé</string>
 			<key>in_pa_v</key>
-			<string></string>
+			<string>eûtes aimé</string>
 			<key>in_pa_ils</key>
-			<string></string>
+			<string>eurent aimé</string>
 			<key>in_fs_j</key>
-			<string></string>
+			<string>aimerai</string>
 			<key>in_fs_t</key>
-			<string></string>
+			<string>aimeras</string>
 			<key>in_fs_il</key>
-			<string></string>
+			<string>aimera</string>
 			<key>in_fs_n</key>
-			<string></string>
+			<string>aimerons</string>
 			<key>in_fs_v</key>
-			<string></string>
+			<string>aimerez</string>
 			<key>in_fs_ils</key>
-			<string></string>
+			<string>aimeront</string>
 			<key>in_fa_j</key>
-			<string></string>
+			<string>aurai aimé</string>
 			<key>in_fa_t</key>
-			<string></string>
+			<string>auras aimé</string>
 			<key>in_fa_il</key>
-			<string></string>
+			<string>aura aimé</string>
 			<key>in_fa_n</key>
-			<string></string>
+			<string>aurons aimé</string>
 			<key>in_fa_v</key>
-			<string></string>
+			<string>aurez aimé</string>
 			<key>in_fa_ils</key>
-			<string></string>
+			<string>auront aimé</string>
 			<key>su_pr_j</key>
-			<string></string>
+			<string>aime</string>
 			<key>su_pr_t</key>
-			<string></string>
+			<string>aimes</string>
 			<key>su_pr_il</key>
-			<string></string>
+			<string>aime</string>
 			<key>su_pr_n</key>
-			<string></string>
+			<string>aimions</string>
 			<key>su_pr_v</key>
-			<string></string>
+			<string>aimiez</string>
 			<key>su_pr_ils</key>
-			<string></string>
+			<string>aiment</string>
 			<key>su_pa_j</key>
-			<string></string>
+			<string>aie aimé</string>
 			<key>su_pa_t</key>
-			<string></string>
+			<string>aies aimé</string>
 			<key>su_pa_il</key>
-			<string></string>
+			<string>ait aimé</string>
 			<key>su_pa_n</key>
-			<string></string>
+			<string>ayons aimé</string>
 			<key>su_pa_v</key>
-			<string></string>
+			<string>ayez aimé</string>
 			<key>su_pa_ils</key>
-			<string></string>
+			<string>aient aimé</string>
 			<key>su_im_j</key>
-			<string></string>
+			<string>aimasse</string>
 			<key>su_im_t</key>
-			<string></string>
+			<string>aimasses</string>
 			<key>su_im_il</key>
-			<string></string>
+			<string>aimât</string>
 			<key>su_im_n</key>
-			<string></string>
+			<string>aimassions</string>
 			<key>su_im_v</key>
-			<string></string>
+			<string>aimassiez</string>
 			<key>su_im_ils</key>
-			<string></string>
+			<string>aimassent</string>
 			<key>su_pqp_j</key>
-			<string></string>
+			<string>eusse aimé</string>
 			<key>su_pqp_t</key>
-			<string></string>
+			<string>eusses aimé</string>
 			<key>su_pqp_il</key>
-			<string></string>
+			<string>eût aimé</string>
 			<key>su_pqp_n</key>
-			<string></string>
+			<string>eussions aimé</string>
 			<key>su_pqp_v</key>
-			<string></string>
+			<string>eussiez aimé</string>
 			<key>su_pqp_ils</key>
-			<string></string>
+			<string>eussent aimé</string>
 			<key>co_pr_j</key>
-			<string></string>
+			<string>aimerais</string>
 			<key>co_pr_t</key>
-			<string></string>
+			<string>aimerais</string>
 			<key>co_pr_il</key>
-			<string></string>
+			<string>aimerait</string>
 			<key>co_pr_n</key>
-			<string></string>
+			<string>aimerions</string>
 			<key>co_pr_v</key>
-			<string></string>
+			<string>aimeriez</string>
 			<key>co_pr_ils</key>
-			<string></string>
+			<string>aimeraient</string>
 			<key>co_pa_j</key>
-			<string></string>
+			<string>aurais aimé</string>
 			<key>co_pa_t</key>
-			<string></string>
+			<string>aurais aimé</string>
 			<key>co_pa_il</key>
-			<string></string>
+			<string>aurait aimé</string>
 			<key>co_pa_n</key>
-			<string></string>
+			<string>aurions aimé</string>
 			<key>co_pa_v</key>
-			<string></string>
+			<string>auriez aimé</string>
 			<key>co_pa_ils</key>
-			<string></string>
+			<string>auraient aimé</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>8</integer>
 			<key>term</key>
-			<string></string>
+			<string>cer</string>
 			<key>radicals</key>
-			<string></string>
+			<string>plac, plaç</string>
 			<key>inf_pr</key>
-			<string></string>
+			<string>placer</string>
 			<key>inf_pa</key>
-			<string></string>
+			<string>avoir placé</string>
 			<key>pa_pr</key>
-			<string></string>
+			<string>plaçant</string>
 			<key>pa_pa1</key>
-			<string></string>
+			<string>placé (é, ée, és, ées)</string>
 			<key>pa_pa2</key>
-			<string></string>
+			<string>ayant placé</string>
 			<key>ge_pr</key>
-			<string></string>
+			<string>en plaçant</string>
 			<key>ge_pa</key>
-			<string></string>
+			<string>en ayant placé</string>
 			<key>im_pr_t</key>
-			<string></string>
+			<string>place</string>
 			<key>im_pr_n</key>
-			<string></string>
+			<string>plaçons</string>
 			<key>im_pr_v</key>
-			<string></string>
+			<string>placez</string>
 			<key>im_pa_t</key>
-			<string></string>
+			<string>aie placé</string>
 			<key>im_pa_n</key>
-			<string></string>
+			<string>ayons placé</string>
 			<key>im_pa_v</key>
-			<string></string>
+			<string>ayez placé</string>
 			<key>in_pr_j</key>
-			<string></string>
+			<string>place</string>
 			<key>in_pr_t</key>
-			<string></string>
+			<string>places</string>
 			<key>in_pr_il</key>
-			<string></string>
+			<string>place</string>
 			<key>in_pr_n</key>
-			<string></string>
+			<string>plaçons</string>
 			<key>in_pr_v</key>
-			<string></string>
+			<string>placez</string>
 			<key>in_pr_ils</key>
-			<string></string>
+			<string>placent</string>
 			<key>in_pc_j</key>
-			<string></string>
+			<string>ai placé</string>
 			<key>in_pc_t</key>
-			<string></string>
+			<string>as placé</string>
 			<key>in_pc_il</key>
-			<string></string>
+			<string>a placé</string>
 			<key>in_pc_n</key>
-			<string></string>
+			<string>avons placé</string>
 			<key>in_pc_v</key>
-			<string></string>
+			<string>avez placé</string>
 			<key>in_pc_ils</key>
-			<string></string>
+			<string>ont placé</string>
 			<key>in_im_j</key>
-			<string></string>
+			<string>plaçais</string>
 			<key>in_im_t</key>
-			<string></string>
+			<string>plaçais</string>
 			<key>in_im_il</key>
-			<string></string>
+			<string>plaçait</string>
 			<key>in_im_n</key>
-			<string></string>
+			<string>placions</string>
 			<key>in_im_v</key>
-			<string></string>
+			<string>placiez</string>
 			<key>in_im_ils</key>
-			<string></string>
+			<string>plaçaient</string>
 			<key>in_pqp_j</key>
-			<string></string>
+			<string>avais placé</string>
 			<key>in_pqp_t</key>
-			<string></string>
+			<string>avais placé</string>
 			<key>in_pqp_il</key>
-			<string></string>
+			<string>avait placé</string>
 			<key>in_pqp_n</key>
-			<string></string>
+			<string>avions placé</string>
 			<key>in_pqp_v</key>
-			<string></string>
+			<string>aviez placé</string>
 			<key>in_pqp_ils</key>
-			<string></string>
+			<string>avaient placé</string>
 			<key>in_ps_j</key>
-			<string></string>
+			<string>plaçai</string>
 			<key>in_ps_t</key>
-			<string></string>
+			<string>plaças</string>
 			<key>in_ps_il</key>
-			<string></string>
+			<string>plaça</string>
 			<key>in_ps_n</key>
-			<string></string>
+			<string>plaçâmes</string>
 			<key>in_ps_v</key>
-			<string></string>
+			<string>plaçâtes</string>
 			<key>in_ps_ils</key>
-			<string></string>
+			<string>placèrent</string>
 			<key>in_pa_j</key>
-			<string></string>
+			<string>eus placé</string>
 			<key>in_pa_t</key>
-			<string></string>
+			<string>eus placé</string>
 			<key>in_pa_il</key>
-			<string></string>
+			<string>eut placé</string>
 			<key>in_pa_n</key>
-			<string></string>
+			<string>eûmes placé</string>
 			<key>in_pa_v</key>
-			<string></string>
+			<string>eûtes placé</string>
 			<key>in_pa_ils</key>
-			<string></string>
+			<string>eurent placé</string>
 			<key>in_fs_j</key>
-			<string></string>
+			<string>placerai</string>
 			<key>in_fs_t</key>
-			<string></string>
+			<string>placeras</string>
 			<key>in_fs_il</key>
-			<string></string>
+			<string>placera</string>
 			<key>in_fs_n</key>
-			<string></string>
+			<string>placerons</string>
 			<key>in_fs_v</key>
-			<string></string>
+			<string>placerez</string>
 			<key>in_fs_ils</key>
-			<string></string>
+			<string>placeront</string>
 			<key>in_fa_j</key>
-			<string></string>
+			<string>aurai placé</string>
 			<key>in_fa_t</key>
-			<string></string>
+			<string>auras placé</string>
 			<key>in_fa_il</key>
-			<string></string>
+			<string>aura placé</string>
 			<key>in_fa_n</key>
-			<string></string>
+			<string>aurons placé</string>
 			<key>in_fa_v</key>
-			<string></string>
+			<string>aurez placé</string>
 			<key>in_fa_ils</key>
-			<string></string>
+			<string>auront placé</string>
 			<key>su_pr_j</key>
-			<string></string>
+			<string>place</string>
 			<key>su_pr_t</key>
-			<string></string>
+			<string>places</string>
 			<key>su_pr_il</key>
-			<string></string>
+			<string>place</string>
 			<key>su_pr_n</key>
-			<string></string>
+			<string>placions</string>
 			<key>su_pr_v</key>
-			<string></string>
+			<string>placiez</string>
 			<key>su_pr_ils</key>
-			<string></string>
+			<string>placent</string>
 			<key>su_pa_j</key>
-			<string></string>
+			<string>aie placé</string>
 			<key>su_pa_t</key>
-			<string></string>
+			<string>aies placé</string>
 			<key>su_pa_il</key>
-			<string></string>
+			<string>ait placé</string>
 			<key>su_pa_n</key>
-			<string></string>
+			<string>ayons placé</string>
 			<key>su_pa_v</key>
-			<string></string>
+			<string>ayez placé</string>
 			<key>su_pa_ils</key>
-			<string></string>
+			<string>aient placé</string>
 			<key>su_im_j</key>
-			<string></string>
+			<string>plaçasse</string>
 			<key>su_im_t</key>
-			<string></string>
+			<string>plaçasses</string>
 			<key>su_im_il</key>
-			<string></string>
+			<string>plaçât</string>
 			<key>su_im_n</key>
-			<string></string>
+			<string>plaçassions</string>
 			<key>su_im_v</key>
-			<string></string>
+			<string>plaçassiez</string>
 			<key>su_im_ils</key>
-			<string></string>
+			<string>plaçassent</string>
 			<key>su_pqp_j</key>
-			<string></string>
+			<string>eusse placé</string>
 			<key>su_pqp_t</key>
-			<string></string>
+			<string>eusses placé</string>
 			<key>su_pqp_il</key>
-			<string></string>
+			<string>eût placé</string>
 			<key>su_pqp_n</key>
-			<string></string>
+			<string>eussions placé</string>
 			<key>su_pqp_v</key>
-			<string></string>
+			<string>eussiez placé</string>
 			<key>su_pqp_ils</key>
-			<string></string>
+			<string>eussent placé</string>
 			<key>co_pr_j</key>
-			<string></string>
+			<string>placerais</string>
 			<key>co_pr_t</key>
-			<string></string>
+			<string>placerais</string>
 			<key>co_pr_il</key>
-			<string></string>
+			<string>placerait</string>
 			<key>co_pr_n</key>
-			<string></string>
+			<string>placerions</string>
 			<key>co_pr_v</key>
-			<string></string>
+			<string>placeriez</string>
 			<key>co_pr_ils</key>
-			<string></string>
+			<string>placeraient</string>
 			<key>co_pa_j</key>
-			<string></string>
+			<string>aurais placé</string>
 			<key>co_pa_t</key>
-			<string></string>
+			<string>aurais placé</string>
 			<key>co_pa_il</key>
-			<string></string>
+			<string>aurait placé</string>
 			<key>co_pa_n</key>
-			<string></string>
+			<string>aurions placé</string>
 			<key>co_pa_v</key>
-			<string></string>
+			<string>auriez placé</string>
 			<key>co_pa_ils</key>
-			<string></string>
+			<string>auraient placé</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>9</integer>
 			<key>term</key>
-			<string></string>
+			<string>ger</string>
 			<key>radicals</key>
-			<string></string>
+			<string>mang</string>
 			<key>inf_pr</key>
-			<string></string>
+			<string>manger</string>
 			<key>inf_pa</key>
-			<string></string>
+			<string>avoir mangé</string>
 			<key>pa_pr</key>
-			<string></string>
+			<string>mangeant</string>
 			<key>pa_pa1</key>
-			<string></string>
+			<string>mangé (é, ée, és, ées)</string>
 			<key>pa_pa2</key>
-			<string></string>
+			<string>ayant mangé</string>
 			<key>ge_pr</key>
-			<string></string>
+			<string>en mangeant</string>
 			<key>ge_pa</key>
-			<string></string>
+			<string>en ayant mangé</string>
 			<key>im_pr_t</key>
-			<string></string>
+			<string>mange</string>
 			<key>im_pr_n</key>
-			<string></string>
+			<string>mangeons</string>
 			<key>im_pr_v</key>
-			<string></string>
+			<string>mangez</string>
 			<key>im_pa_t</key>
-			<string></string>
+			<string>aie mangé</string>
 			<key>im_pa_n</key>
-			<string></string>
+			<string>ayons mangé</string>
 			<key>im_pa_v</key>
-			<string></string>
+			<string>ayez mangé</string>
 			<key>in_pr_j</key>
-			<string></string>
+			<string>mange</string>
 			<key>in_pr_t</key>
-			<string></string>
+			<string>manges</string>
 			<key>in_pr_il</key>
-			<string></string>
+			<string>mange</string>
 			<key>in_pr_n</key>
-			<string></string>
+			<string>mangeons</string>
 			<key>in_pr_v</key>
-			<string></string>
+			<string>mangez</string>
 			<key>in_pr_ils</key>
-			<string></string>
+			<string>mangent</string>
 			<key>in_pc_j</key>
-			<string></string>
+			<string>ai mangé</string>
 			<key>in_pc_t</key>
-			<string></string>
+			<string>as mangé</string>
 			<key>in_pc_il</key>
-			<string></string>
+			<string>a mangé</string>
 			<key>in_pc_n</key>
-			<string></string>
+			<string>avons mangé</string>
 			<key>in_pc_v</key>
-			<string></string>
+			<string>avez mangé</string>
 			<key>in_pc_ils</key>
-			<string></string>
+			<string>ont mangé</string>
 			<key>in_im_j</key>
-			<string></string>
+			<string>mangeais</string>
 			<key>in_im_t</key>
-			<string></string>
+			<string>mangeais</string>
 			<key>in_im_il</key>
-			<string></string>
+			<string>mangeait</string>
 			<key>in_im_n</key>
-			<string></string>
+			<string>mangions</string>
 			<key>in_im_v</key>
-			<string></string>
+			<string>mangiez</string>
 			<key>in_im_ils</key>
-			<string></string>
+			<string>mangeaient</string>
 			<key>in_pqp_j</key>
-			<string></string>
+			<string>avais mangé</string>
 			<key>in_pqp_t</key>
-			<string></string>
+			<string>avais mangé</string>
 			<key>in_pqp_il</key>
-			<string></string>
+			<string>avait mangé</string>
 			<key>in_pqp_n</key>
-			<string></string>
+			<string>avions mangé</string>
 			<key>in_pqp_v</key>
-			<string></string>
+			<string>aviez mangé</string>
 			<key>in_pqp_ils</key>
-			<string></string>
+			<string>avaient mangé</string>
 			<key>in_ps_j</key>
-			<string></string>
+			<string>mangeai</string>
 			<key>in_ps_t</key>
-			<string></string>
+			<string>mangeas</string>
 			<key>in_ps_il</key>
-			<string></string>
+			<string>mangea</string>
 			<key>in_ps_n</key>
-			<string></string>
+			<string>mangeâmes</string>
 			<key>in_ps_v</key>
-			<string></string>
+			<string>mangeâtes</string>
 			<key>in_ps_ils</key>
-			<string></string>
+			<string>mangèrent</string>
 			<key>in_pa_j</key>
-			<string></string>
+			<string>eus mangé</string>
 			<key>in_pa_t</key>
-			<string></string>
+			<string>eus mangé</string>
 			<key>in_pa_il</key>
-			<string></string>
+			<string>eut mangé</string>
 			<key>in_pa_n</key>
-			<string></string>
+			<string>eûmes mangé</string>
 			<key>in_pa_v</key>
-			<string></string>
+			<string>eûtes mangé</string>
 			<key>in_pa_ils</key>
-			<string></string>
+			<string>eurent mangé</string>
 			<key>in_fs_j</key>
-			<string></string>
+			<string>mangerai</string>
 			<key>in_fs_t</key>
-			<string></string>
+			<string>mangeras</string>
 			<key>in_fs_il</key>
-			<string></string>
+			<string>mangera</string>
 			<key>in_fs_n</key>
-			<string></string>
+			<string>mangerons</string>
 			<key>in_fs_v</key>
-			<string></string>
+			<string>mangerez</string>
 			<key>in_fs_ils</key>
-			<string></string>
+			<string>mangeront</string>
 			<key>in_fa_j</key>
-			<string></string>
+			<string>aurai mangé</string>
 			<key>in_fa_t</key>
-			<string></string>
+			<string>auras mangé</string>
 			<key>in_fa_il</key>
-			<string></string>
+			<string>aura mangé</string>
 			<key>in_fa_n</key>
-			<string></string>
+			<string>aurons mangé</string>
 			<key>in_fa_v</key>
-			<string></string>
+			<string>aurez mangé</string>
 			<key>in_fa_ils</key>
-			<string></string>
+			<string>auront mangé</string>
 			<key>su_pr_j</key>
-			<string></string>
+			<string>mange</string>
 			<key>su_pr_t</key>
-			<string></string>
+			<string>manges</string>
 			<key>su_pr_il</key>
-			<string></string>
+			<string>mange</string>
 			<key>su_pr_n</key>
-			<string></string>
+			<string>mangions</string>
 			<key>su_pr_v</key>
-			<string></string>
+			<string>mangiez</string>
 			<key>su_pr_ils</key>
-			<string></string>
+			<string>mangent</string>
 			<key>su_pa_j</key>
-			<string></string>
+			<string>aie mangé</string>
 			<key>su_pa_t</key>
-			<string></string>
+			<string>aies mangé</string>
 			<key>su_pa_il</key>
-			<string></string>
+			<string>ait mangé</string>
 			<key>su_pa_n</key>
-			<string></string>
+			<string>ayons mangé</string>
 			<key>su_pa_v</key>
-			<string></string>
+			<string>ayez mangé</string>
 			<key>su_pa_ils</key>
-			<string></string>
+			<string>aient mangé</string>
 			<key>su_im_j</key>
-			<string></string>
+			<string>mangeasse</string>
 			<key>su_im_t</key>
-			<string></string>
+			<string>mangeasses</string>
 			<key>su_im_il</key>
-			<string></string>
+			<string>mangeât</string>
 			<key>su_im_n</key>
-			<string></string>
+			<string>mangeassions</string>
 			<key>su_im_v</key>
-			<string></string>
+			<string>mangeassiez</string>
 			<key>su_im_ils</key>
-			<string></string>
+			<string>mangeassent</string>
 			<key>su_pqp_j</key>
-			<string></string>
+			<string>eusse mangé</string>
 			<key>su_pqp_t</key>
-			<string></string>
+			<string>eusses mangé</string>
 			<key>su_pqp_il</key>
-			<string></string>
+			<string>eût mangé</string>
 			<key>su_pqp_n</key>
-			<string></string>
+			<string>eussions mangé</string>
 			<key>su_pqp_v</key>
-			<string></string>
+			<string>eussiez mangé</string>
 			<key>su_pqp_ils</key>
-			<string></string>
+			<string>eussent mangé</string>
 			<key>co_pr_j</key>
-			<string></string>
+			<string>mangerais</string>
 			<key>co_pr_t</key>
-			<string></string>
+			<string>mangerais</string>
 			<key>co_pr_il</key>
-			<string></string>
+			<string>mangerait</string>
 			<key>co_pr_n</key>
-			<string></string>
+			<string>mangerions</string>
 			<key>co_pr_v</key>
-			<string></string>
+			<string>mangeriez</string>
 			<key>co_pr_ils</key>
-			<string></string>
+			<string>mangeraient</string>
 			<key>co_pa_j</key>
-			<string></string>
+			<string>aurais mangé</string>
 			<key>co_pa_t</key>
-			<string></string>
+			<string>aurais mangé</string>
 			<key>co_pa_il</key>
-			<string></string>
+			<string>aurait mangé</string>
 			<key>co_pa_n</key>
-			<string></string>
+			<string>aurions mangé</string>
 			<key>co_pa_v</key>
-			<string></string>
+			<string>auriez mangé</string>
 			<key>co_pa_ils</key>
-			<string></string>
+			<string>auraient mangé</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>10</integer>
 			<key>term</key>
-			<string></string>
+			<string>er</string>
 			<key>radicals</key>
-			<string></string>
+			<string>pes, pès</string>
 			<key>inf_pr</key>
-			<string></string>
+			<string>peser</string>
 			<key>inf_pa</key>
-			<string></string>
+			<string>avoir pesé</string>
 			<key>pa_pr</key>
-			<string></string>
+			<string>pesant</string>
 			<key>pa_pa1</key>
-			<string></string>
+			<string>pesé (é, ée, és, ées)</string>
 			<key>pa_pa2</key>
-			<string></string>
+			<string>ayant pesé</string>
 			<key>ge_pr</key>
-			<string></string>
+			<string>en pesant</string>
 			<key>ge_pa</key>
-			<string></string>
+			<string>en ayant pesé</string>
 			<key>im_pr_t</key>
-			<string></string>
+			<string>pèse</string>
 			<key>im_pr_n</key>
-			<string></string>
+			<string>pesons</string>
 			<key>im_pr_v</key>
-			<string></string>
+			<string>pesez</string>
 			<key>im_pa_t</key>
-			<string></string>
+			<string>aie pesé</string>
 			<key>im_pa_n</key>
-			<string></string>
+			<string>ayons pesé</string>
 			<key>im_pa_v</key>
-			<string></string>
+			<string>ayez pesé</string>
 			<key>in_pr_j</key>
-			<string></string>
+			<string>pèse</string>
 			<key>in_pr_t</key>
-			<string></string>
+			<string>pèses</string>
 			<key>in_pr_il</key>
-			<string></string>
+			<string>pèse</string>
 			<key>in_pr_n</key>
-			<string></string>
+			<string>pesons</string>
 			<key>in_pr_v</key>
-			<string></string>
+			<string>pesez</string>
 			<key>in_pr_ils</key>
-			<string></string>
+			<string>pèsent</string>
 			<key>in_pc_j</key>
-			<string></string>
+			<string>ai pesé</string>
 			<key>in_pc_t</key>
-			<string></string>
+			<string>as pesé</string>
 			<key>in_pc_il</key>
-			<string></string>
+			<string>a pesé</string>
 			<key>in_pc_n</key>
-			<string></string>
+			<string>avons pesé</string>
 			<key>in_pc_v</key>
-			<string></string>
+			<string>avez pesé</string>
 			<key>in_pc_ils</key>
-			<string></string>
+			<string>ont pesé</string>
 			<key>in_im_j</key>
-			<string></string>
+			<string>pesais</string>
 			<key>in_im_t</key>
-			<string></string>
+			<string>pesais</string>
 			<key>in_im_il</key>
-			<string></string>
+			<string>pesait</string>
 			<key>in_im_n</key>
-			<string></string>
+			<string>pesions</string>
 			<key>in_im_v</key>
-			<string></string>
+			<string>pesiez</string>
 			<key>in_im_ils</key>
-			<string></string>
+			<string>pesaient</string>
 			<key>in_pqp_j</key>
-			<string></string>
+			<string>avais pesé</string>
 			<key>in_pqp_t</key>
-			<string></string>
+			<string>avais pesé</string>
 			<key>in_pqp_il</key>
-			<string></string>
+			<string>avait pesé</string>
 			<key>in_pqp_n</key>
-			<string></string>
+			<string>avions pesé</string>
 			<key>in_pqp_v</key>
-			<string></string>
+			<string>aviez pesé</string>
 			<key>in_pqp_ils</key>
-			<string></string>
+			<string>avaient pesé</string>
 			<key>in_ps_j</key>
-			<string></string>
+			<string>pesai</string>
 			<key>in_ps_t</key>
-			<string></string>
+			<string>pesas</string>
 			<key>in_ps_il</key>
-			<string></string>
+			<string>pesa</string>
 			<key>in_ps_n</key>
-			<string></string>
+			<string>pesâmes</string>
 			<key>in_ps_v</key>
-			<string></string>
+			<string>pesâtes</string>
 			<key>in_ps_ils</key>
-			<string></string>
+			<string>pesèrent</string>
 			<key>in_pa_j</key>
-			<string></string>
+			<string>eus pesé</string>
 			<key>in_pa_t</key>
-			<string></string>
+			<string>eus pesé</string>
 			<key>in_pa_il</key>
-			<string></string>
+			<string>eut pesé</string>
 			<key>in_pa_n</key>
-			<string></string>
+			<string>eûmes pesé</string>
 			<key>in_pa_v</key>
-			<string></string>
+			<string>eûtes pesé</string>
 			<key>in_pa_ils</key>
-			<string></string>
+			<string>eurent pesé</string>
 			<key>in_fs_j</key>
-			<string></string>
+			<string>pèserai</string>
 			<key>in_fs_t</key>
-			<string></string>
+			<string>pèseras</string>
 			<key>in_fs_il</key>
-			<string></string>
+			<string>pèsera</string>
 			<key>in_fs_n</key>
-			<string></string>
+			<string>pèserons</string>
 			<key>in_fs_v</key>
-			<string></string>
+			<string>pèserez</string>
 			<key>in_fs_ils</key>
-			<string></string>
+			<string>pèseront</string>
 			<key>in_fa_j</key>
-			<string></string>
+			<string>aurai pesé</string>
 			<key>in_fa_t</key>
-			<string></string>
+			<string>auras pesé</string>
 			<key>in_fa_il</key>
-			<string></string>
+			<string>aura pesé</string>
 			<key>in_fa_n</key>
-			<string></string>
+			<string>aurons pesé</string>
 			<key>in_fa_v</key>
-			<string></string>
+			<string>aurez pesé</string>
 			<key>in_fa_ils</key>
-			<string></string>
+			<string>auront pesé</string>
 			<key>su_pr_j</key>
-			<string></string>
+			<string>pèse</string>
 			<key>su_pr_t</key>
-			<string></string>
+			<string>pèses</string>
 			<key>su_pr_il</key>
-			<string></string>
+			<string>pèse</string>
 			<key>su_pr_n</key>
-			<string></string>
+			<string>pesions</string>
 			<key>su_pr_v</key>
-			<string></string>
+			<string>pesiez</string>
 			<key>su_pr_ils</key>
-			<string></string>
+			<string>pèsent</string>
 			<key>su_pa_j</key>
-			<string></string>
+			<string>aie pesé</string>
 			<key>su_pa_t</key>
-			<string></string>
+			<string>aies pesé</string>
 			<key>su_pa_il</key>
-			<string></string>
+			<string>ait pesé</string>
 			<key>su_pa_n</key>
-			<string></string>
+			<string>ayons pesé</string>
 			<key>su_pa_v</key>
-			<string></string>
+			<string>ayez pesé</string>
 			<key>su_pa_ils</key>
-			<string></string>
+			<string>aient pesé</string>
 			<key>su_im_j</key>
-			<string></string>
+			<string>pesasse</string>
 			<key>su_im_t</key>
-			<string></string>
+			<string>pesasses</string>
 			<key>su_im_il</key>
-			<string></string>
+			<string>pesât</string>
 			<key>su_im_n</key>
-			<string></string>
+			<string>pesassions</string>
 			<key>su_im_v</key>
-			<string></string>
+			<string>pesassiez</string>
 			<key>su_im_ils</key>
-			<string></string>
+			<string>pesassent</string>
 			<key>su_pqp_j</key>
-			<string></string>
+			<string>eusse pesé</string>
 			<key>su_pqp_t</key>
-			<string></string>
+			<string>eusses pesé</string>
 			<key>su_pqp_il</key>
-			<string></string>
+			<string>eût pesé</string>
 			<key>su_pqp_n</key>
-			<string></string>
+			<string>eussions pesé</string>
 			<key>su_pqp_v</key>
-			<string></string>
+			<string>eussiez pesé</string>
 			<key>su_pqp_ils</key>
-			<string></string>
+			<string>eussent pesé</string>
 			<key>co_pr_j</key>
-			<string></string>
+			<string>pèserais</string>
 			<key>co_pr_t</key>
-			<string></string>
+			<string>pèserais</string>
 			<key>co_pr_il</key>
-			<string></string>
+			<string>pèserait</string>
 			<key>co_pr_n</key>
-			<string></string>
+			<string>pèserions</string>
 			<key>co_pr_v</key>
-			<string></string>
+			<string>pèseriez</string>
 			<key>co_pr_ils</key>
-			<string></string>
+			<string>pèseraient</string>
 			<key>co_pa_j</key>
-			<string></string>
+			<string>aurais pesé</string>
 			<key>co_pa_t</key>
-			<string></string>
+			<string>aurais pesé</string>
 			<key>co_pa_il</key>
-			<string></string>
+			<string>aurait pesé</string>
 			<key>co_pa_n</key>
-			<string></string>
+			<string>aurions pesé</string>
 			<key>co_pa_v</key>
-			<string></string>
+			<string>auriez pesé</string>
 			<key>co_pa_ils</key>
-			<string></string>
+			<string>auraient pesé</string>
 		</dict>
 		<dict>
 			<key>id</key>
