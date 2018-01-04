@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conjugations</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<integer>1</integer>
+			<key>term</key>
+			<string></string>
+			<key>radicals</key>
+			<string></string>
+			<key>inf_pr</key>
+			<string>être</string>
+			<key>inf_pa</key>
+			<string>avoir été</string>
+			<key>pa_pr</key>
+			<string>étant</string>
+			<key>pa_pa1</key>
+			<string>été</string>
+			<key>pa_pa2</key>
+			<string>ayant été</string>
+			<key>ge_pr</key>
+			<string>en étant</string>
+			<key>ge_pa</key>
+			<string>en ayant été</string>
+			<key>im_pr_t</key>
+			<string>sois</string>
+			<key>im_pr_n</key>
+			<string>soyons</string>
+			<key>im_pr_v</key>
+			<string>soyez</string>
+			<key>im_pa_t</key>
+			<string>aie été</string>
+			<key>im_pa_n</key>
+			<string>ayons été</string>
+			<key>im_pa_v</key>
+			<string>ayez été</string>
+			<key>in_pr_j</key>
+			<string>suis</string>
+			<key>in_pr_t</key>
+			<string>es</string>
+			<key>in_pr_il</key>
+			<string>est</string>
+			<key>in_pr_n</key>
+			<string>sommes</string>
+			<key>in_pr_v</key>
+			<string>êtes</string>
+			<key>in_pr_ils</key>
+			<string>sont</string>
+			<key>in_pc_j</key>
+			<string>ai été</string>
+			<key>in_pc_t</key>
+			<string>as été</string>
+			<key>in_pc_il</key>
+			<string>a été</string>
+			<key>in_pc_n</key>
+			<string>avons été</string>
+			<key>in_pc_v</key>
+			<string>avez été</string>
+			<key>in_pc_ils</key>
+			<string>ont été</string>
+			<key>in_im_j</key>
+			<string>étais</string>
+			<key>in_im_t</key>
+			<string>étais</string>
+			<key>in_im_il</key>
+			<string>était</string>
+			<key>in_im_n</key>
+			<string>étions</string>
+			<key>in_im_v</key>
+			<string>étiez</string>
+			<key>in_im_ils</key>
+			<string>étaient</string>
+			<key>in_pqp_j</key>
+			<string>avais été</string>
+			<key>in_pqp_t</key>
+			<string>avais été</string>
+			<key>in_pqp_il</key>
+			<string>avait été</string>
+			<key>in_pqp_n</key>
+			<string>avions été</string>
+			<key>in_pqp_v</key>
+			<string>aviez été</string>
+			<key>in_pqp_ils</key>
+			<string>avaient été</string>
+			<key>in_ps_j</key>
+			<string>fus</string>
+			<key>in_ps_t</key>
+			<string>fus</string>
+			<key>in_ps_il</key>
+			<string>fut</string>
+			<key>in_ps_n</key>
+			<string>fûmes</string>
+			<key>in_ps_v</key>
+			<string>fûtes</string>
+			<key>in_ps_ils</key>
+			<string>furent</string>
+			<key>in_pa_j</key>
+			<string>eus été</string>
+			<key>in_pa_t</key>
+			<string>eus été</string>
+			<key>in_pa_il</key>
+			<string>eut été</string>
+			<key>in_pa_n</key>
+			<string>eûmes été</string>
+			<key>in_pa_v</key>
+			<string>eûtes été</string>
+			<key>in_pa_ils</key>
+			<string>eurent été</string>
+			<key>in_fs_j</key>
+			<string>serai</string>
+			<key>in_fs_t</key>
+			<string>seras</string>
+			<key>in_fs_il</key>
+			<string>sera</string>
+			<key>in_fs_n</key>
+			<string>serons</string>
+			<key>in_fs_v</key>
+			<string>serez</string>
+			<key>in_fs_ils</key>
+			<string>seront</string>
+			<key>in_fa_j</key>
+			<string>aurai été</string>
+			<key>in_fa_t</key>
+			<string>auras été</string>
+			<key>in_fa_il</key>
+			<string>aura été</string>
+			<key>in_fa_n</key>
+			<string>aurons été</string>
+			<key>in_fa_v</key>
+			<string>aurez été</string>
+			<key>in_fa_ils</key>
+			<string>auront été</string>
+			<key>su_pr_j</key>
+			<string>sois</string>
+			<key>su_pr_t</key>
+			<string>sois</string>
+			<key>su_pr_il</key>
+			<string>soit</string>
+			<key>su_pr_n</key>
+			<string>soyons</string>
+			<key>su_pr_v</key>
+			<string>soyez</string>
+			<key>su_pr_ils</key>
+			<string>soient</string>
+			<key>su_pa_j</key>
+			<string>aie été</string>
+			<key>su_pa_t</key>
+			<string>aies été</string>
+			<key>su_pa_il</key>
+			<string>ait été</string>
+			<key>su_pa_n</key>
+			<string>ayons été</string>
+			<key>su_pa_v</key>
+			<string>ayez été</string>
+			<key>su_pa_ils</key>
+			<string>aient été</string>
+			<key>su_im_j</key>
+			<string>fusse</string>
+			<key>su_im_t</key>
+			<string>fusses</string>
+			<key>su_im_il</key>
+			<string>fût</string>
+			<key>su_im_n</key>
+			<string>fussions</string>
+			<key>su_im_v</key>
+			<string>fussiez</string>
+			<key>su_im_ils</key>
+			<string>fussent</string>
+			<key>su_pqp_j</key>
+			<string>eusse été</string>
+			<key>su_pqp_t</key>
+			<string>eusses été</string>
+			<key>su_pqp_il</key>
+			<string>eût été</string>
+			<key>su_pqp_n</key>
+			<string>eussions été</string>
+			<key>su_pqp_v</key>
+			<string>eussiez été</string>
+			<key>su_pqp_ils</key>
+			<string>eussent été</string>
+			<key>co_pr_j</key>
+			<string>serais</string>
+			<key>co_pr_t</key>
+			<string>serais</string>
+			<key>co_pr_il</key>
+			<string>serait</string>
+			<key>co_pr_n</key>
+			<string>serions</string>
+			<key>co_pr_v</key>
+			<string>seriez</string>
+			<key>co_pr_ils</key>
+			<string>seraient</string>
+			<key>co_pa_j</key>
+			<string>aurais été</string>
+			<key>co_pa_t</key>
+			<string>aurais été</string>
+			<key>co_pa_il</key>
+			<string>aurait été</string>
+			<key>co_pa_n</key>
+			<string>aurions été</string>
+			<key>co_pa_v</key>
+			<string>auriez été</string>
+			<key>co_pa_ils</key>
+			<string>auraient été</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>2</integer>
+			<key>term</key>
+			<string></string>
+			<key>radicals</key>
+			<string></string>
+			<key>inf_pr</key>
+			<string>avoir</string>
+			<key>inf_pa</key>
+			<string>avoir eu</string>
+			<key>pa_pr</key>
+			<string>ayant</string>
+			<key>pa_pa1</key>
+			<string>eu (u, ue, us, ues)</string>
+			<key>pa_pa2</key>
+			<string>ayant eu</string>
+			<key>ge_pr</key>
+			<string>en ayant</string>
+			<key>ge_pa</key>
+			<string>en ayant eu</string>
+			<key>im_pr_t</key>
+			<string>aie</string>
+			<key>im_pr_n</key>
+			<string>ayons</string>
+			<key>im_pr_v</key>
+			<string>ayez</string>
+			<key>im_pa_t</key>
+			<string>aie eu</string>
+			<key>im_pa_n</key>
+			<string>ayons eu</string>
+			<key>im_pa_v</key>
+			<string>ayez eu</string>
+			<key>in_pr_j</key>
+			<string>ai</string>
+			<key>in_pr_t</key>
+			<string>as</string>
+			<key>in_pr_il</key>
+			<string>a</string>
+			<key>in_pr_n</key>
+			<string>avons</string>
+			<key>in_pr_v</key>
+			<string>avez</string>
+			<key>in_pr_ils</key>
+			<string>ont</string>
+			<key>in_pc_j</key>
+			<string>ai eu</string>
+			<key>in_pc_t</key>
+			<string>as eu</string>
+			<key>in_pc_il</key>
+			<string>a eu</string>
+			<key>in_pc_n</key>
+			<string>avons eu</string>
+			<key>in_pc_v</key>
+			<string>avez eu</string>
+			<key>in_pc_ils</key>
+			<string>ont eu</string>
+			<key>in_im_j</key>
+			<string>avais</string>
+			<key>in_im_t</key>
+			<string>avais</string>
+			<key>in_im_il</key>
+			<string>avait</string>
+			<key>in_im_n</key>
+			<string>avions</string>
+			<key>in_im_v</key>
+			<string>aviez</string>
+			<key>in_im_ils</key>
+			<string>avaient</string>
+			<key>in_pqp_j</key>
+			<string>avais eu</string>
+			<key>in_pqp_t</key>
+			<string>avais eu</string>
+			<key>in_pqp_il</key>
+			<string>avait eu</string>
+			<key>in_pqp_n</key>
+			<string>avions eu</string>
+			<key>in_pqp_v</key>
+			<string>aviez eu</string>
+			<key>in_pqp_ils</key>
+			<string>avaient eu</string>
+			<key>in_ps_j</key>
+			<string>eus</string>
+			<key>in_ps_t</key>
+			<string>eus</string>
+			<key>in_ps_il</key>
+			<string>eut</string>
+			<key>in_ps_n</key>
+			<string>eûmes</string>
+			<key>in_ps_v</key>
+			<string>eûtes</string>
+			<key>in_ps_ils</key>
+			<string>eurent</string>
+			<key>in_pa_j</key>
+			<string>eus eu</string>
+			<key>in_pa_t</key>
+			<string>eus eu</string>
+			<key>in_pa_il</key>
+			<string>eut eu</string>
+			<key>in_pa_n</key>
+			<string>eûmes eu</string>
+			<key>in_pa_v</key>
+			<string>eûtes eu</string>
+			<key>in_pa_ils</key>
+			<string>eurent eu</string>
+			<key>in_fs_j</key>
+			<string>aurai</string>
+			<key>in_fs_t</key>
+			<string>auras</string>
+			<key>in_fs_il</key>
+			<string>aura</string>
+			<key>in_fs_n</key>
+			<string>aurons</string>
+			<key>in_fs_v</key>
+			<string>aurez</string>
+			<key>in_fs_ils</key>
+			<string>auront</string>
+			<key>in_fa_j</key>
+			<string>aurai eu</string>
+			<key>in_fa_t</key>
+			<string>auras eu</string>
+			<key>in_fa_il</key>
+			<string>aura eu</string>
+			<key>in_fa_n</key>
+			<string>aurons eu</string>
+			<key>in_fa_v</key>
+			<string>aurez eu</string>
+			<key>in_fa_ils</key>
+			<string>auront eu</string>
+			<key>su_pr_j</key>
+			<string>aie</string>
+			<key>su_pr_t</key>
+			<string>aies</string>
+			<key>su_pr_il</key>
+			<string>ait</string>
+			<key>su_pr_n</key>
+			<string>ayons</string>
+			<key>su_pr_v</key>
+			<string>ayez</string>
+			<key>su_pr_ils</key>
+			<string>aient</string>
+			<key>su_pa_j</key>
+			<string>aie eu</string>
+			<key>su_pa_t</key>
+			<string>aies eu</string>
+			<key>su_pa_il</key>
+			<string>ait eu</string>
+			<key>su_pa_n</key>
+			<string>ayons eu</string>
+			<key>su_pa_v</key>
+			<string>ayez eu</string>
+			<key>su_pa_ils</key>
+			<string>aient eu</string>
+			<key>su_im_j</key>
+			<string>eusse</string>
+			<key>su_im_t</key>
+			<string>eusses</string>
+			<key>su_im_il</key>
+			<string>eût</string>
+			<key>su_im_n</key>
+			<string>eussions</string>
+			<key>su_im_v</key>
+			<string>eussiez</string>
+			<key>su_im_ils</key>
+			<string>eussent</string>
+			<key>su_pqp_j</key>
+			<string>eusse eu</string>
+			<key>su_pqp_t</key>
+			<string>eusses eu</string>
+			<key>su_pqp_il</key>
+			<string>eût eu</string>
+			<key>su_pqp_n</key>
+			<string>eussions eu</string>
+			<key>su_pqp_v</key>
+			<string>eussiez eu</string>
+			<key>su_pqp_ils</key>
+			<string>eussent eu</string>
+			<key>co_pr_j</key>
+			<string>aurais</string>
+			<key>co_pr_t</key>
+			<string>aurais</string>
+			<key>co_pr_il</key>
+			<string>aurait</string>
+			<key>co_pr_n</key>
+			<string>aurions</string>
+			<key>co_pr_v</key>
+			<string>auriez</string>
+			<key>co_pr_ils</key>
+			<string>auraient</string>
+			<key>co_pa_j</key>
+			<string>aurais eu</string>
+			<key>co_pa_t</key>
+			<string>aurais eu</string>
+			<key>co_pa_il</key>
+			<string>aurait eu</string>
+			<key>co_pa_n</key>
+			<string>aurions eu</string>
+			<key>co_pa_v</key>
+			<string>auriez eu</string>
+			<key>co_pa_ils</key>
+			<string>auraient eu</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>2</integer>
+			<key>term</key>
+			<string></string>
+			<key>radicals</key>
+			<string></string>
+			<key>inf_pr</key>
+			<string></string>
+			<key>inf_pa</key>
+			<string></string>
+			<key>pa_pr</key>
+			<string></string>
+			<key>pa_pa1</key>
+			<string></string>
+			<key>pa_pa2</key>
+			<string></string>
+			<key>ge_pr</key>
+			<string></string>
+			<key>ge_pa</key>
+			<string></string>
+			<key>im_pr_t</key>
+			<string></string>
+			<key>im_pr_n</key>
+			<string></string>
+			<key>im_pr_v</key>
+			<string></string>
+			<key>im_pa_t</key>
+			<string></string>
+			<key>im_pa_n</key>
+			<string></string>
+			<key>im_pa_v</key>
+			<string></string>
+			<key>in_pr_j</key>
+			<string></string>
+			<key>in_pr_t</key>
+			<string></string>
+			<key>in_pr_il</key>
+			<string></string>
+			<key>in_pr_n</key>
+			<string></string>
+			<key>in_pr_v</key>
+			<string></string>
+			<key>in_pr_ils</key>
+			<string></string>
+			<key>in_pc_j</key>
+			<string></string>
+			<key>in_pc_t</key>
+			<string></string>
+			<key>in_pc_il</key>
+			<string></string>
+			<key>in_pc_n</key>
+			<string></string>
+			<key>in_pc_v</key>
+			<string></string>
+			<key>in_pc_ils</key>
+			<string></string>
+			<key>in_im_j</key>
+			<string></string>
+			<key>in_im_t</key>
+			<string></string>
+			<key>in_im_il</key>
+			<string></string>
+			<key>in_im_n</key>
+			<string></string>
+			<key>in_im_v</key>
+			<string></string>
+			<key>in_im_ils</key>
+			<string></string>
+			<key>in_pqp_j</key>
+			<string></string>
+			<key>in_pqp_t</key>
+			<string></string>
+			<key>in_pqp_il</key>
+			<string></string>
+			<key>in_pqp_n</key>
+			<string></string>
+			<key>in_pqp_v</key>
+			<string></string>
+			<key>in_pqp_ils</key>
+			<string></string>
+			<key>in_ps_j</key>
+			<string></string>
+			<key>in_ps_t</key>
+			<string></string>
+			<key>in_ps_il</key>
+			<string></string>
+			<key>in_ps_n</key>
+			<string></string>
+			<key>in_ps_v</key>
+			<string></string>
+			<key>in_ps_ils</key>
+			<string></string>
+			<key>in_pa_j</key>
+			<string></string>
+			<key>in_pa_t</key>
+			<string></string>
+			<key>in_pa_il</key>
+			<string></string>
+			<key>in_pa_n</key>
+			<string></string>
+			<key>in_pa_v</key>
+			<string></string>
+			<key>in_pa_ils</key>
+			<string></string>
+			<key>in_fs_j</key>
+			<string></string>
+			<key>in_fs_t</key>
+			<string></string>
+			<key>in_fs_il</key>
+			<string></string>
+			<key>in_fs_n</key>
+			<string></string>
+			<key>in_fs_v</key>
+			<string></string>
+			<key>in_fs_ils</key>
+			<string></string>
+			<key>in_fa_j</key>
+			<string></string>
+			<key>in_fa_t</key>
+			<string></string>
+			<key>in_fa_il</key>
+			<string></string>
+			<key>in_fa_n</key>
+			<string></string>
+			<key>in_fa_v</key>
+			<string></string>
+			<key>in_fa_ils</key>
+			<string></string>
+			<key>su_pr_j</key>
+			<string></string>
+			<key>su_pr_t</key>
+			<string></string>
+			<key>su_pr_il</key>
+			<string></string>
+			<key>su_pr_n</key>
+			<string></string>
+			<key>su_pr_v</key>
+			<string></string>
+			<key>su_pr_ils</key>
+			<string></string>
+			<key>su_pa_j</key>
+			<string></string>
+			<key>su_pa_t</key>
+			<string></string>
+			<key>su_pa_il</key>
+			<string></string>
+			<key>su_pa_n</key>
+			<string></string>
+			<key>su_pa_v</key>
+			<string></string>
+			<key>su_pa_ils</key>
+			<string></string>
+			<key>su_im_j</key>
+			<string></string>
+			<key>su_im_t</key>
+			<string></string>
+			<key>su_im_il</key>
+			<string></string>
+			<key>su_im_n</key>
+			<string></string>
+			<key>su_im_v</key>
+			<string></string>
+			<key>su_im_ils</key>
+			<string></string>
+			<key>su_pqp_j</key>
+			<string></string>
+			<key>su_pqp_t</key>
+			<string></string>
+			<key>su_pqp_il</key>
+			<string></string>
+			<key>su_pqp_n</key>
+			<string></string>
+			<key>su_pqp_v</key>
+			<string></string>
+			<key>su_pqp_ils</key>
+			<string></string>
+			<key>co_pr_j</key>
+			<string></string>
+			<key>co_pr_t</key>
+			<string></string>
+			<key>co_pr_il</key>
+			<string></string>
+			<key>co_pr_n</key>
+			<string></string>
+			<key>co_pr_v</key>
+			<string></string>
+			<key>co_pr_ils</key>
+			<string></string>
+			<key>co_pa_j</key>
+			<string></string>
+			<key>co_pa_t</key>
+			<string></string>
+			<key>co_pa_il</key>
+			<string></string>
+			<key>co_pa_n</key>
+			<string></string>
+			<key>co_pa_v</key>
+			<string></string>
+			<key>co_pa_ils</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

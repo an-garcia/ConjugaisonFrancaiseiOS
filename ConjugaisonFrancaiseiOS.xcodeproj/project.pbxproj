@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8231004B1FFE7A7D00CDDD0A /* conjugations.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8231004A1FFE7A7D00CDDD0A /* conjugations.plist */; };
 		829CEC4E1FFD4B9700F5AA8B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829CEC4D1FFD4B9700F5AA8B /* AppDelegate.swift */; };
 		829CEC501FFD4B9700F5AA8B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829CEC4F1FFD4B9700F5AA8B /* ViewController.swift */; };
 		829CEC531FFD4B9700F5AA8B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 829CEC511FFD4B9700F5AA8B /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8231004A1FFE7A7D00CDDD0A /* conjugations.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = conjugations.plist; sourceTree = "<group>"; };
 		829CEC4A1FFD4B9700F5AA8B /* ConjugaisonFrancaiseiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConjugaisonFrancaiseiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		829CEC4D1FFD4B9700F5AA8B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		829CEC4F1FFD4B9700F5AA8B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -76,6 +78,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		823100491FFE79AF00CDDD0A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8231004A1FFE7A7D00CDDD0A /* conjugations.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
 		829CEC411FFD4B9700F5AA8B = {
 			isa = PBXGroup;
 			children = (
@@ -105,6 +115,7 @@
 				829CEC571FFD4B9700F5AA8B /* Assets.xcassets */,
 				829CEC591FFD4B9700F5AA8B /* LaunchScreen.storyboard */,
 				829CEC5C1FFD4B9700F5AA8B /* Info.plist */,
+				823100491FFE79AF00CDDD0A /* Supporting Files */,
 				829CEC541FFD4B9700F5AA8B /* ConjugaisonFrancaiseiOS.xcdatamodeld */,
 			);
 			path = ConjugaisonFrancaiseiOS;
@@ -235,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8231004B1FFE7A7D00CDDD0A /* conjugations.plist in Resources */,
 				829CEC5B1FFD4B9700F5AA8B /* LaunchScreen.storyboard in Resources */,
 				829CEC581FFD4B9700F5AA8B /* Assets.xcassets in Resources */,
 				829CEC531FFD4B9700F5AA8B /* Main.storyboard in Resources */,
