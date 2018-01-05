@@ -61,6 +61,19 @@ class VerbListViewController: UIViewController {
             }
         }
     }
+    
+    
+    // MARK: Show Options dialog
+    @IBAction func showOptions(_ sender: AnyObject) {
+        
+        let storyboard = self.storyboard
+        let controller = storyboard?.instantiateViewController(withIdentifier: "OptionsViewController")as! OptionsViewController
+        
+        //controller.history = self.history
+        
+        //self.present(controller, animated: true, completion: nil)
+        self.navigationController?.pushViewController(controller, animated: true)
+    }
 
 }
 
