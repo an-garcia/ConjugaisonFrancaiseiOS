@@ -2,8 +2,8 @@ Conjugaison Française
 =====================
 
 
-![Scheme](/readmeImages/Screenshot_20170821-112845x.png)
-
+![Scheme](/readmeImages/SimulatorScreenShot-iPhone8Plus-2018-01-05at16.34.52.png)
+![Scheme](/readmeImages/SimulatorScreenShot-iPhone8Plus-2018-01-05at16.35.16.png)
 
 iOS application to learn french verb tenses.
 
