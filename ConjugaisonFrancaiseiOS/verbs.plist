@@ -32,6 +32,34 @@
 			<key>trpt</key>
 			<string>ser</string>
 		</dict>
+        <dict>
+            <key>id</key>
+            <integer>1</integer>
+            <key>ta</key>
+            <integer>2</integer>
+            <key>in</key>
+            <string>avoir</string>
+            <key>s1</key>
+            <string>Laurence a une bicyclette.</string>
+            <key>s2</key>
+            <string>Nous avons eu ce voilier à bon compte.</string>
+            <key>s3</key>
+            <string>Catherine a le premier prix! Martin espère avoir une bourse afin de poursuivre ses études.</string>
+            <key>gr</key>
+            <integer>3</integer>
+            <key>co</key>
+            <integer>1</integer>
+            <key>de</key>
+            <string>Posséder. Acquérir, se procurer. Obtenir. Éprouver. Être de telle manière, présenter une caractéristique. Comporter. Tromper, rouler quelqu’un. AUXILIAIRE DE CONJUGAISON.</string>
+            <key>no</key>
+            <string>T</string>
+            <key>tren</key>
+            <string>have</string>
+            <key>tres</key>
+            <string>tener</string>
+            <key>trpt</key>
+            <string>ter</string>
+        </dict>
 	</array>
 </dict>
 </plist>
