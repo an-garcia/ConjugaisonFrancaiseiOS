@@ -72,6 +72,18 @@ class VerbListViewController: UIViewController {
         }
     }
     
+    // MARK: Find the conjugation with the id
+    private func findConjugationWithId(_ id : Int) -> Conjugation {
+        var result : Conjugation = conjugations[0]
+        for conjugation in conjugations {
+            if conjugation.id == id {
+                result = conjugation
+                break
+            }
+        }
+        return result
+    }
+    
     
     // MARK: Show Options dialog
     @IBAction func showOptions(_ sender: AnyObject) {
@@ -125,8 +137,8 @@ extension VerbListViewController: UITableViewDataSource, UITableViewDelegate {
         
         // Set the verb data
         controller.verb = verb
-        // TODO: Find the rigth item using the verb
-        controller.conjugation = conjugations[0]
+        // Set the conjugation model for the verb
+        controller.conjugation = findConjugationWithId(verb.conjugation)
         
         // Push the new controller onto the stack
         self.navigationController!.pushViewController(controller, animated: true)
