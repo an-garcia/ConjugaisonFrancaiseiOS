@@ -14,13 +14,14 @@ class VerbListViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     
     var verbs: [Verb] = [Verb]() // List of verbs
+    var conjugations: [Conjugation] = [Conjugation]() // List of conjugations
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Initialize the verbs
-        loadVerbsData()
+        loadData()
     }
     
     override func viewDidAppear(_ animated: Bool) {
@@ -44,18 +45,27 @@ class VerbListViewController: UIViewController {
     }
     */
     
-    // MARK: Load verbs data
-    private func loadVerbsData() {
+    // MARK: Load data
+    private func loadData() {
         let verbPlistPaths = Bundle.main.paths(forResourcesOfType: "plist", inDirectory: nil)
         
         for plistPath in verbPlistPaths {
             if (plistPath as NSString).lastPathComponent == "verbs.plist" {
+                // Get the verbs
                 if let verbsDictionary = NSDictionary(contentsOfFile: plistPath) as? [String : AnyObject] {
-                    // Get the dictionary
                     let verbNodesDictionary = verbsDictionary["verbs"] as! [AnyObject]
                     // Add the verb
                     for (dictionary): (AnyObject) in verbNodesDictionary {
                         verbs.append(Verb(dictionary: dictionary as! [String : AnyObject]))
+                    }
+                }
+            } else if (plistPath as NSString).lastPathComponent == "conjugations.plist" {
+                // Get the conjugations
+                if let conjugationsDictionary = NSDictionary(contentsOfFile: plistPath) as? [String : AnyObject] {
+                    let conjugationNodesDictionary = conjugationsDictionary["conjugations"] as! [AnyObject]
+                    // Add the conjugation
+                    for (dictionary): (AnyObject) in conjugationNodesDictionary {
+                        conjugations.append(Conjugation(dictionary: dictionary as! [String : AnyObject]))
                     }
                 }
             }
@@ -115,6 +125,8 @@ extension VerbListViewController: UITableViewDataSource, UITableViewDelegate {
         
         // Set the verb data
         controller.verb = verb
+        // TODO: Find the rigth item using the verb
+        controller.conjugation = conjugations[0]
         
         // Push the new controller onto the stack
         self.navigationController!.pushViewController(controller, animated: true)

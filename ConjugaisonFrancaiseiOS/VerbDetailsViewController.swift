@@ -11,8 +11,8 @@ import UIKit
 class VerbDetailsViewController: UIViewController {
 
     // MARK: Properties
-    
     var verb : Verb!
+    var conjugation : Conjugation!
     
     @IBOutlet weak var infinitive : UIButton!
     
