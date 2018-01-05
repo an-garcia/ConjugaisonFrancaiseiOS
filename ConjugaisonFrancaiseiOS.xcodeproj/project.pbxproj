@@ -17,6 +17,7 @@
 		829CEC661FFD4B9800F5AA8B /* ConjugaisonFrancaiseiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829CEC651FFD4B9800F5AA8B /* ConjugaisonFrancaiseiOSTests.swift */; };
 		829CEC711FFD4B9800F5AA8B /* ConjugaisonFrancaiseiOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829CEC701FFD4B9800F5AA8B /* ConjugaisonFrancaiseiOSUITests.swift */; };
 		82E8FB4E1FFFC2BB00970DF2 /* verbs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 82E8FB4D1FFFC2BB00970DF2 /* verbs.plist */; };
+		82E8FB521FFFCD4D00970DF2 /* VerbListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82E8FB511FFFCD4D00970DF2 /* VerbListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		829CEC701FFD4B9800F5AA8B /* ConjugaisonFrancaiseiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConjugaisonFrancaiseiOSUITests.swift; sourceTree = "<group>"; };
 		829CEC721FFD4B9800F5AA8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		82E8FB4D1FFFC2BB00970DF2 /* verbs.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = verbs.plist; sourceTree = "<group>"; };
+		82E8FB511FFFCD4D00970DF2 /* VerbListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerbListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,8 +114,9 @@
 		829CEC4C1FFD4B9700F5AA8B /* ConjugaisonFrancaiseiOS */ = {
 			isa = PBXGroup;
 			children = (
+				82E8FB4F1FFFCCE600970DF2 /* Controller */,
+				82E8FB501FFFCCF500970DF2 /* Model */,
 				829CEC4D1FFD4B9700F5AA8B /* AppDelegate.swift */,
-				829CEC4F1FFD4B9700F5AA8B /* ViewController.swift */,
 				829CEC511FFD4B9700F5AA8B /* Main.storyboard */,
 				829CEC571FFD4B9700F5AA8B /* Assets.xcassets */,
 				829CEC591FFD4B9700F5AA8B /* LaunchScreen.storyboard */,
@@ -140,6 +143,22 @@
 				829CEC721FFD4B9800F5AA8B /* Info.plist */,
 			);
 			path = ConjugaisonFrancaiseiOSUITests;
+			sourceTree = "<group>";
+		};
+		82E8FB4F1FFFCCE600970DF2 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				829CEC4F1FFD4B9700F5AA8B /* ViewController.swift */,
+				82E8FB511FFFCD4D00970DF2 /* VerbListViewController.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		82E8FB501FFFCCF500970DF2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -279,6 +298,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				829CEC501FFD4B9700F5AA8B /* ViewController.swift in Sources */,
+				82E8FB521FFFCD4D00970DF2 /* VerbListViewController.swift in Sources */,
 				829CEC561FFD4B9700F5AA8B /* ConjugaisonFrancaiseiOS.xcdatamodeld in Sources */,
 				829CEC4E1FFD4B9700F5AA8B /* AppDelegate.swift in Sources */,
 			);
