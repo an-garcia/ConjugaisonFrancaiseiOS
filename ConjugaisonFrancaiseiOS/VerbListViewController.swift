@@ -92,7 +92,6 @@ extension VerbListViewController: UITableViewDataSource, UITableViewDelegate {
         return cell
     }
     
-    /*
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         
         // Get the selected verb
@@ -106,5 +105,5 @@ extension VerbListViewController: UITableViewDataSource, UITableViewDelegate {
         
         // Push the new controller onto the stack
         self.navigationController!.pushViewController(controller, animated: true)
-    }*/
+    }
 }

@@ -33,16 +33,15 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="fU1-jy-k5n">
-                                <rect key="frame" x="16" y="20" width="343" height="627"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="fU1-jy-k5n">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" id="cdI-5g-eeR" customClass="VerbTableViewCell" customModule="ConjugaisonFrancaiseiOS" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="28" width="343" height="44"/>
+                                        <rect key="frame" x="0.0" y="28" width="375" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="cdI-5g-eeR" id="mhY-TL-ItD">
-                                            <rect key="frame" x="0.0" y="0.0" width="343" height="43.5"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="VkR-Ud-512" userLabel="Main Stack View">
@@ -93,16 +92,23 @@
                                 </prototypes>
                                 <connections>
                                     <outlet property="dataSource" destination="sMh-se-419" id="dij-WP-cCO"/>
-                                    <outlet property="delegate" destination="zxW-2M-ikI" id="JL8-Xx-oDx"/>
+                                    <outlet property="delegate" destination="sMh-se-419" id="fcl-eY-Cjr"/>
                                 </connections>
                             </tableView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="fU1-jy-k5n" firstAttribute="top" secondItem="zxW-2M-ikI" secondAttribute="top" id="L5r-QN-ypw"/>
+                            <constraint firstItem="7QC-Pr-1kU" firstAttribute="trailing" secondItem="fU1-jy-k5n" secondAttribute="trailing" id="RZe-jU-o6k"/>
+                            <constraint firstItem="fU1-jy-k5n" firstAttribute="leading" secondItem="7QC-Pr-1kU" secondAttribute="leading" id="c5t-zY-2KQ"/>
+                            <constraint firstItem="7QC-Pr-1kU" firstAttribute="bottom" secondItem="fU1-jy-k5n" secondAttribute="bottom" id="h7t-jj-QCw"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="7QC-Pr-1kU"/>
                     </view>
                     <navigationItem key="navigationItem" title="Verbs" id="4yn-TW-a2D"/>
                     <connections>
                         <outlet property="tableView" destination="fU1-jy-k5n" id="3KL-mp-nMl"/>
+                        <segue destination="eUu-rI-KR1" kind="show" identifier="showVerbDetails" id="ASc-kc-TAF"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Tpk-2Z-iM1" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -112,13 +118,23 @@
         <!--Verb Details View Controller-->
         <scene sceneID="too-38-NSj">
             <objects>
-                <viewController id="eUu-rI-KR1" customClass="VerbDetailsViewController" customModule="ConjugaisonFrancaiseiOS" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="VerbDetailsViewController" id="eUu-rI-KR1" customClass="VerbDetailsViewController" customModule="ConjugaisonFrancaiseiOS" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="lYb-eg-YJv">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6Zn-m2-KvJ">
+                                <rect key="frame" x="50" y="90" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="690-Lu-lUS"/>
                     </view>
+                    <connections>
+                        <outlet property="infinitive" destination="6Zn-m2-KvJ" id="Fmt-9I-8ZP"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="qOD-If-ZOK" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
