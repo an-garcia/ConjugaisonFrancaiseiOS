@@ -38,6 +38,9 @@
                                             </label>
                                             <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Qld-A1-lpo">
                                                 <rect key="frame" x="310" y="0.0" width="51" height="31"/>
+                                                <connections>
+                                                    <action selector="changeShowVerbDefinition:" destination="BYZ-38-t0r" eventType="valueChanged" id="oVR-Ri-cqj"/>
+                                                </connections>
                                             </switch>
                                         </subviews>
                                     </stackView>
@@ -55,6 +58,9 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="showVerbDefinition" destination="Qld-A1-lpo" id="jKT-5O-6vg"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

@@ -10,10 +10,17 @@ import UIKit
 
 class OptionsViewController: UIViewController {
 
+    // MARK: Properties
+    @IBOutlet weak var showVerbDefinition: UISwitch!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        self.title = "Options"
+        // Read the setting value
+        let boolValue = UserDefaults.standard.bool(forKey: "showVerbDefinition")
+        showVerbDefinition.setOn(boolValue, animated: false)
     }
 
     override func didReceiveMemoryWarning() {
@@ -31,5 +38,12 @@ class OptionsViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
+    
+    // MARK: Change value
+    @IBAction func changeShowVerbDefinition(_ sender: Any) {
+        // Save the setting value
+        let value = showVerbDefinition.isOn
+        UserDefaults.standard.set(value, forKey: "showVerbDefinition")
+    }
 
 }

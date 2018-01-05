@@ -96,8 +96,8 @@ extension VerbListViewController: UITableViewDataSource, UITableViewDelegate {
         //cell.imageView!.image = UIImage(named: imageName!)
         
         // Use UserDefaults for hide/show definition
-        //let boolValue = UserDefaults.standard.bool(forKey: "showVerbDefinition")
-        //cell.definition.isHidden = !boolValue
+        let boolValue = UserDefaults.standard.bool(forKey: "showVerbDefinition")
+        cell.definition.isHidden = !boolValue
         // TODO: Use UserDefaults for hide/show translation
         //cell.translation.isHidden = true
         

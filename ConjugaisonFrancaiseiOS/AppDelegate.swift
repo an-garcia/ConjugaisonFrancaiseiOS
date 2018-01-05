@@ -36,6 +36,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func applicationDidBecomeActive(_ application: UIApplication) {
         // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
+        
+        checkIfFirstLaunch()
     }
 
     func applicationWillTerminate(_ application: UIApplication) {
@@ -86,6 +88,19 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 let nserror = error as NSError
                 fatalError("Unresolved error \(nserror), \(nserror.userInfo)")
             }
+        }
+    }
+    
+    // MARK: - Check first launch
+    func checkIfFirstLaunch() {
+        if UserDefaults.standard.bool(forKey: "hasLaunchedBefore") {
+            //print("App has launched before")
+        } else {
+            //print("This is the first launch ever!")
+            // Set default values
+            UserDefaults.standard.set(true, forKey: "hasLaunchedBefore")
+            UserDefaults.standard.set(true, forKey: "showVerbDefinition")
+            UserDefaults.standard.synchronize()
         }
     }
 
