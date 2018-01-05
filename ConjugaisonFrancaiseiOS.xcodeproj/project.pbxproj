@@ -16,6 +16,7 @@
 		829CEC5B1FFD4B9700F5AA8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 829CEC591FFD4B9700F5AA8B /* LaunchScreen.storyboard */; };
 		829CEC661FFD4B9800F5AA8B /* ConjugaisonFrancaiseiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829CEC651FFD4B9800F5AA8B /* ConjugaisonFrancaiseiOSTests.swift */; };
 		829CEC711FFD4B9800F5AA8B /* ConjugaisonFrancaiseiOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829CEC701FFD4B9800F5AA8B /* ConjugaisonFrancaiseiOSUITests.swift */; };
+		82E8FB4E1FFFC2BB00970DF2 /* verbs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 82E8FB4D1FFFC2BB00970DF2 /* verbs.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		829CEC6C1FFD4B9800F5AA8B /* ConjugaisonFrancaiseiOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ConjugaisonFrancaiseiOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		829CEC701FFD4B9800F5AA8B /* ConjugaisonFrancaiseiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConjugaisonFrancaiseiOSUITests.swift; sourceTree = "<group>"; };
 		829CEC721FFD4B9800F5AA8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82E8FB4D1FFFC2BB00970DF2 /* verbs.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = verbs.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				8231004A1FFE7A7D00CDDD0A /* conjugations.plist */,
+				82E8FB4D1FFFC2BB00970DF2 /* verbs.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -247,6 +250,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8231004B1FFE7A7D00CDDD0A /* conjugations.plist in Resources */,
+				82E8FB4E1FFFC2BB00970DF2 /* verbs.plist in Resources */,
 				829CEC5B1FFD4B9700F5AA8B /* LaunchScreen.storyboard in Resources */,
 				829CEC581FFD4B9700F5AA8B /* Assets.xcassets in Resources */,
 				829CEC531FFD4B9700F5AA8B /* Main.storyboard in Resources */,

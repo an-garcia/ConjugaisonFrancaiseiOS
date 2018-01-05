@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>verbs</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<integer>0</integer>
+			<key>ta</key>
+			<integer>1</integer>
+			<key>in</key>
+			<string>être</string>
+			<key>s1</key>
+			<string>Je pense, donc je suis.</string>
+			<key>s2</key>
+			<string>Les érables sont magnifiques.</string>
+			<key>s3</key>
+			<string>Ils seront à Paris en mai.</string>
+			<key>gr</key>
+			<integer>3</integer>
+			<key>co</key>
+			<integer>1</integer>
+			<key>de</key>
+			<string>Exister, avoir une réalité. Le verbe être établit la relation entre le sujet et l’attribut. Se situer. Se trouver. Appartenir. S’occuper à. Tendre vers. Faire partie de. Venir de, être originaire de. Donner son soutien à. AUXILIAIRE DE CONJUGAISON. AUXILIAIRE DE TEMPS.</string>
+			<key>no</key>
+			<string>I</string>
+			<key>tren</key>
+			<string>be</string>
+			<key>tres</key>
+			<string>estar</string>
+			<key>trpt</key>
+			<string>ser</string>
+		</dict>
+	</array>
+</dict>
+</plist>
