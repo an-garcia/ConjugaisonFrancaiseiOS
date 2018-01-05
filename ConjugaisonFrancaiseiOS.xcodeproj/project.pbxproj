@@ -19,6 +19,7 @@
 		82E8FB4E1FFFC2BB00970DF2 /* verbs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 82E8FB4D1FFFC2BB00970DF2 /* verbs.plist */; };
 		82E8FB521FFFCD4D00970DF2 /* VerbListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82E8FB511FFFCD4D00970DF2 /* VerbListViewController.swift */; };
 		82E8FB541FFFCDDD00970DF2 /* VerbDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82E8FB531FFFCDDD00970DF2 /* VerbDetailsViewController.swift */; };
+		82E8FB561FFFCE6400970DF2 /* OptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82E8FB551FFFCE6400970DF2 /* OptionsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		82E8FB4D1FFFC2BB00970DF2 /* verbs.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = verbs.plist; sourceTree = "<group>"; };
 		82E8FB511FFFCD4D00970DF2 /* VerbListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerbListViewController.swift; sourceTree = "<group>"; };
 		82E8FB531FFFCDDD00970DF2 /* VerbDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerbDetailsViewController.swift; sourceTree = "<group>"; };
+		82E8FB551FFFCE6400970DF2 /* OptionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 			isa = PBXGroup;
 			children = (
 				829CEC4F1FFD4B9700F5AA8B /* ViewController.swift */,
+				82E8FB551FFFCE6400970DF2 /* OptionsViewController.swift */,
 				82E8FB511FFFCD4D00970DF2 /* VerbListViewController.swift */,
 				82E8FB531FFFCDDD00970DF2 /* VerbDetailsViewController.swift */,
 			);
@@ -303,6 +306,7 @@
 				829CEC501FFD4B9700F5AA8B /* ViewController.swift in Sources */,
 				82E8FB521FFFCD4D00970DF2 /* VerbListViewController.swift in Sources */,
 				82E8FB541FFFCDDD00970DF2 /* VerbDetailsViewController.swift in Sources */,
+				82E8FB561FFFCE6400970DF2 /* OptionsViewController.swift in Sources */,
 				829CEC561FFD4B9700F5AA8B /* ConjugaisonFrancaiseiOS.xcdatamodeld in Sources */,
 				829CEC4E1FFD4B9700F5AA8B /* AppDelegate.swift in Sources */,
 			);
