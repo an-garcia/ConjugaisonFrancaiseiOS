@@ -199,23 +199,23 @@
                                                             </label>
                                                         </subviews>
                                                     </stackView>
-                                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="J1v-Z5-r9a">
-                                                        <rect key="frame" x="0.0" y="38" width="241" height="128"/>
+                                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="verb_teach" translatesAutoresizingMaskIntoConstraints="NO" id="J1v-Z5-r9a">
+                                                        <rect key="frame" x="0.0" y="38" width="359" height="192"/>
                                                     </imageView>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UES-hN-glN">
-                                                        <rect key="frame" x="0.0" y="174" width="42" height="20.5"/>
+                                                        <rect key="frame" x="0.0" y="238" width="42" height="20.5"/>
                                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                         <nil key="textColor"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Definition" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Blc-Rf-Var">
-                                                        <rect key="frame" x="0.0" y="202.5" width="73" height="20.5"/>
+                                                        <rect key="frame" x="0.0" y="266.5" width="73" height="20.5"/>
                                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                         <nil key="textColor"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
-                                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xXy-5R-1p3">
-                                                        <rect key="frame" x="0.0" y="231" width="46" height="94.5"/>
+                                                    <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xXy-5R-1p3">
+                                                        <rect key="frame" x="0.0" y="295" width="46" height="30.5"/>
                                                         <state key="normal" title="Button"/>
                                                     </button>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Examples" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xmd-xl-9Ng">
@@ -333,7 +333,13 @@
                         <viewLayoutGuide key="safeArea" id="690-Lu-lUS"/>
                     </view>
                     <connections>
+                        <outlet property="definition" destination="xXy-5R-1p3" id="a7j-AH-EmA"/>
+                        <outlet property="group" destination="g8F-TN-82V" id="TQf-HE-lcg"/>
                         <outlet property="infinitive" destination="6Zn-m2-KvJ" id="Fmt-9I-8ZP"/>
+                        <outlet property="sample1" destination="xXN-K8-Wde" id="wJs-qG-sBN"/>
+                        <outlet property="sample2" destination="FvP-cZ-lGa" id="N7c-5Y-cbk"/>
+                        <outlet property="sample3" destination="3H5-19-O41" id="zra-wO-YfQ"/>
+                        <outlet property="translation" destination="UES-hN-glN" id="FqI-8B-nUl"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="qOD-If-ZOK" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -357,4 +363,7 @@
             <point key="canvasLocation" x="-406" y="-170"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="verb_teach" width="384" height="192"/>
+    </resources>
 </document>

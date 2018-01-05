@@ -15,6 +15,12 @@ class VerbDetailsViewController: UIViewController {
     var conjugation : Conjugation!
     
     @IBOutlet weak var infinitive : UIButton!
+    @IBOutlet weak var group : UILabel!
+    @IBOutlet weak var translation : UILabel!
+    @IBOutlet weak var definition : UIButton!
+    @IBOutlet weak var sample1 : UIButton!
+    @IBOutlet weak var sample2 : UIButton!
+    @IBOutlet weak var sample3 : UIButton!
     
     
     override func viewDidLoad() {
@@ -22,6 +28,7 @@ class VerbDetailsViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         self.title = verb.infinitive
+        fillVerbDetails(verb)
     }
 
     override func didReceiveMemoryWarning() {
@@ -39,5 +46,23 @@ class VerbDetailsViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
+    
+    
+    // MARK: - Verb Details
+    
+    private func fillVerbDetails(_ verb : Verb) {
+        infinitive.setAttributedTitle(NSAttributedString(string: verb.infinitive), for: UIControlState.normal)
+        translation.text = verb.translationEN
+        // TODO: Set better string
+        group.text = "\(verb.group) group"
+        
+        definition.setAttributedTitle(NSAttributedString(string: verb.definition), for: UIControlState.normal)
+        sample1.setAttributedTitle(NSAttributedString(string: verb.sample1), for: UIControlState.normal)
+        sample2.setAttributedTitle(NSAttributedString(string: verb.sample2), for: UIControlState.normal)
+        sample3.setAttributedTitle(NSAttributedString(string: verb.sample3), for: UIControlState.normal)
+        
+        // TODO: Image
+        //image.image = imageForVerb(verb.infinitive)
+    }
 
 }
