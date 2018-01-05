@@ -22,6 +22,7 @@
 		82E8FB561FFFCE6400970DF2 /* OptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82E8FB551FFFCE6400970DF2 /* OptionsViewController.swift */; };
 		82E8FB581FFFCF4B00970DF2 /* Verb.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82E8FB571FFFCF4B00970DF2 /* Verb.swift */; };
 		82E8FB5A1FFFD1A400970DF2 /* Conjugation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82E8FB591FFFD1A400970DF2 /* Conjugation.swift */; };
+		82E8FB5C1FFFE24900970DF2 /* VerbTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82E8FB5B1FFFE24900970DF2 /* VerbTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		82E8FB551FFFCE6400970DF2 /* OptionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsViewController.swift; sourceTree = "<group>"; };
 		82E8FB571FFFCF4B00970DF2 /* Verb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Verb.swift; sourceTree = "<group>"; };
 		82E8FB591FFFD1A400970DF2 /* Conjugation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conjugation.swift; sourceTree = "<group>"; };
+		82E8FB5B1FFFE24900970DF2 /* VerbTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerbTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +162,7 @@
 				82E8FB551FFFCE6400970DF2 /* OptionsViewController.swift */,
 				82E8FB511FFFCD4D00970DF2 /* VerbListViewController.swift */,
 				82E8FB531FFFCDDD00970DF2 /* VerbDetailsViewController.swift */,
+				82E8FB5B1FFFE24900970DF2 /* VerbTableViewCell.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -310,6 +313,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				82E8FB581FFFCF4B00970DF2 /* Verb.swift in Sources */,
+				82E8FB5C1FFFE24900970DF2 /* VerbTableViewCell.swift in Sources */,
 				829CEC501FFD4B9700F5AA8B /* ViewController.swift in Sources */,
 				82E8FB521FFFCD4D00970DF2 /* VerbListViewController.swift in Sources */,
 				82E8FB541FFFCDDD00970DF2 /* VerbDetailsViewController.swift in Sources */,
