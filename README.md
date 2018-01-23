@@ -1,6 +1,6 @@
 Conjugaison Française
 =====================
-
+[![Download on the App Store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/us/app/conjugaison-française/id1338263242?ls=1&mt=8)
 
 ![Scheme](/readmeImages/SimulatorScreenShot-iPhone8Plus-2018-01-05at16.34.52.png)
 ![Scheme](/readmeImages/SimulatorScreenShot-iPhone8Plus-2018-01-05at16.35.16.png)
